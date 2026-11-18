@@ -1,0 +1,282 @@
+{
+  "slug": "rocio-delgado-salud-belleza-ecija",
+  "nombre": "Rocío Delgado Salud & Belleza",
+  "nombre_corto": "Rocío Delgado",
+  "sector_nombre": "Centro de estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Écija",
+  "barrio": "",
+  "direccion": "C. Carreras, 22A, 41400 Écija",
+  "telefono": "615 17 47 77",
+  "whatsapp": "615 17 47 77",
+  "email": "",
+  "web_actual": "",
+  "logo_url": "",
+  "colores": {
+    "primario": "#3F5C78",
+    "secundario": "#DCE3EA",
+    "acento": "#B9784A"
+  },
+  "estilo": {
+    "arquetipo": "clinica-studio",
+    "layout": "editorial",
+    "tema": "claro",
+    "fondo": "#F4F0EA",
+    "texto": "#1F2A33",
+    "superficie": "#FFFFFF",
+    "superficie_alt": "#ECE6DD",
+    "hero": "centrado",
+    "forma": "medio",
+    "fuente_titulos": "Young Serif",
+    "fuente_texto": "Hanken Grotesk",
+    "destacado": "cursiva",
+    "fuente_acento": "Spectral",
+    "velocidad": "lenta",
+    "aurora": "sutil"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 5,
+    "num_resenas": 36,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Roc%C3%ADo%20Delgado%20Salud%26Belleza%2C%20C.%20Carreras%2022A%2C%20%C3%89cija",
+    "consulta_mapa": "Rocío Delgado Salud&Belleza, C. Carreras, 22A, 41400 Écija"
+  },
+  "hero": {
+    "etiqueta": "Salud & belleza · Écija",
+    "titular": "Tecnología que se nota,",
+    "titular_destacado": "manos que te cuidan.",
+    "subtitular": "Indiba, IPL, Dermapen, masajes y tratamientos corporales en la calle Carreras, en un espacio precioso donde te sientes en confianza desde el primer día.",
+    "cta_texto": "Pedir mi cita"
+  },
+  "texto_sello": "Salud & belleza · Écija · Rocío Delgado · ",
+  "etiqueta_manifiesto": "Nuestra filosofía",
+  "manifiesto": "Creemos que cuidarse es *salud*, no un capricho. Por eso unimos aparatología avanzada con el trato tranquilo de unas manos expertas, y te explicamos cada paso. Aquí vienes a verte mejor y a salir *más ligera por dentro.*",
+  "marquesina": [
+    "Indiba",
+    "IPL",
+    "Dermapen",
+    "Masajes",
+    "Corporal",
+    "Écija"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Confianza desde <span class=\"text-gradient\">la primera visita</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "cpu",
+      "titulo": "Aparatología avanzada",
+      "texto": "Indiba, IPL o Dermapen para resultados que se notan en tu piel."
+    },
+    {
+      "icono": "user-check",
+      "titulo": "Atención personalizada",
+      "texto": "Estudiamos tu caso y te explicamos cada tratamiento con calma."
+    },
+    {
+      "icono": "flower-2",
+      "titulo": "Un espacio para desconectar",
+      "texto": "Un sitio bonito, cuidado y tranquilo, pensado para relajarte."
+    },
+    {
+      "icono": "heart",
+      "titulo": "Todas bienvenidas",
+      "texto": "Centro de propietarias mujeres y amigable con la comunidad LGBTQ+."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "Facial, corporal <span class=\"text-gradient\">y bienestar</span>",
+  "subtitulo_servicios": "Toca cada tratamiento para ver más y reservar.",
+  "servicios": [
+    {
+      "nombre": "Indiba facial",
+      "descripcion": "Radiofrecuencia que estimula tu piel para que luzca más luminosa, firme y cuidada.",
+      "icono": "radio",
+      "detalles": [
+        "Piel más firme",
+        "Efecto luminoso",
+        "Sesiones relajantes"
+      ]
+    },
+    {
+      "nombre": "Dermapen",
+      "descripcion": "Microneedling para mejorar la textura de la piel, marcas y poros.",
+      "icono": "pen-tool",
+      "detalles": [
+        "Textura y poros",
+        "Marcas y cicatrices",
+        "Valoración previa"
+      ]
+    },
+    {
+      "nombre": "Fotodepilación IPL",
+      "descripcion": "Luz pulsada para reducir el vello de forma cómoda y progresiva.",
+      "icono": "zap",
+      "detalles": [
+        "Plan por zonas",
+        "Sesiones cómodas",
+        "Seguimiento"
+      ]
+    },
+    {
+      "nombre": "Onnafit corporal",
+      "descripcion": "Tecnología corporal para trabajar tu silueta, con un plan adaptado a ti.",
+      "icono": "activity",
+      "detalles": [
+        "Plan personalizado",
+        "Te lo explicamos en tu valoración",
+        "Seguimiento de resultados"
+      ]
+    },
+    {
+      "nombre": "Tratamientos corporales",
+      "descripcion": "Rituales corporales relajantes con productos de gran calidad.",
+      "icono": "sparkles",
+      "detalles": [
+        "Muy relajante",
+        "Productos de calidad",
+        "Para ti o para regalar"
+      ]
+    },
+    {
+      "nombre": "Masaje",
+      "descripcion": "Un rato de calma en manos expertas para soltar tensiones.",
+      "icono": "hand",
+      "detalles": [
+        "Relajante",
+        "Ambiente tranquilo",
+        "Para regalar"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Noelia Domínguez",
+      "fecha": "hace 7 meses",
+      "texto": "El sitio es genial, muy bonito y cuidado, la atencion de Rocio inmejorable, me hizo tratamiento corporal totalmente recomendado, muy relajante y productos de gran calidad. Muy profesional, lo disfrute muchisimo y lo recomiendo."
+    },
+    {
+      "autor": "Oscar Jiménez de los Galanes",
+      "fecha": "hace 5 meses",
+      "texto": "Quiero compartir mi excelente experiencia en Rocío Delegado. Llevo tiempo realizándome tratamientos faciales con la aparatología Indiba y los resultados han sido magníficos: mi piel luce mucho más luminosa, firme y cuidada.…"
+    },
+    {
+      "autor": "Mónica Díaz Caballero",
+      "fecha": "hace un año",
+      "texto": "¡Me realizaron un masaje corporal y volvería a repetir sin dudarlo! La atención al cliente es magnífica desde el primer momento y el sitio es precioso. El ambiente, la calma y tranquilidad que transmitía Nazaret y sus manos a la hora de…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Un trato excelente y muy profesional, en el que te sientes con total confianza."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Trato inmejorable, atención personalizada y en las mejores manos."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">quienes nos visitan</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "9:00 – 14:00 · 16:00 – 21:00"
+    },
+    {
+      "dia": "Martes",
+      "horas": "9:00 – 14:00 · 16:00 – 21:00"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "9:00 – 14:00 · 16:00 – 21:00"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "9:00 – 14:00 · 16:00 – 21:00"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "9:00 – 14:00"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Nur",
+    "saludo": "¡Hola! Soy Nur, de Rocío Delgado Salud & Belleza 🌿 Cuéntame qué quieres mejorar y te ayudo a elegir tratamiento y reservar.",
+    "pregunta_demo": "Hola, ¿qué es el Indiba facial?",
+    "teaser": "¿Te busco hueco? 🌿",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "9:30",
+      "11:00",
+      "12:30",
+      "16:30",
+      "18:00",
+      "19:30"
+    ],
+    "como_llegar": "Estamos en la calle Carreras, 22A, en Écija.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el miércoles a las 18:00 para tu Indiba facial. ¿Te lo reservo?",
+      "¿Te apetece un masaje relajante? Te busco hueco esta semana 🌿",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Qué es el Indiba?",
+        "claves": [
+          "indiba",
+          "radiofrecuencia"
+        ],
+        "respuesta": "Es una radiofrecuencia que estimula la piel desde dentro: la deja más luminosa y firme, y la sesión es muy agradable. ¿Te reservo una valoración?"
+      },
+      {
+        "pregunta": "¿La fotodepilación IPL duele?",
+        "claves": [
+          "ipl",
+          "fotodepil",
+          "depil",
+          "vello",
+          "duele"
+        ],
+        "respuesta": "Es muy llevadera: notarás un leve calor. Te hacemos un plan por zonas y vemos la evolución sesión a sesión."
+      },
+      {
+        "pregunta": "¿Hacéis masajes?",
+        "claves": [
+          "masaje",
+          "relaj",
+          "contractura",
+          "espalda"
+        ],
+        "respuesta": "Sí, masajes y rituales corporales relajantes con productos de gran calidad. También para regalar 🎁"
+      },
+      {
+        "pregunta": "¿Abrís por la tarde?",
+        "claves": [
+          "tarde",
+          "horario",
+          "abris",
+          "viernes"
+        ],
+        "respuesta": "De lunes a jueves, de 9:00 a 14:00 y de 16:00 a 21:00. Los viernes, de 9:00 a 14:00."
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva",
+  "cta_final_titulo": "Date un respiro, *te lo mereces.*",
+  "cta_final_texto": "Escríbenos y te buscamos hueco esta semana, también por la tarde hasta las 21:00.",
+  "texto_ubicacion": "C. Carreras, 22A · Écija"
+}
