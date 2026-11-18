@@ -1,0 +1,292 @@
+{
+  "slug": "clinica-ana-calderon-dos-hermanas",
+  "nombre": "Clínica Ana Calderón",
+  "nombre_corto": "Ana Calderón",
+  "sector_nombre": "Clínica estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Dos Hermanas",
+  "barrio": "",
+  "direccion": "Av. Reyes Católicos, 77, 41702 Dos Hermanas, Sevilla",
+  "telefono": "687 80 17 31",
+  "whatsapp": "687 80 17 31",
+  "email": "",
+  "web_actual": "",
+  "logo_url": "",
+  "colores": {
+    "primario": "#7A8B74",
+    "secundario": "#C9D3C2",
+    "acento": "#C9A86A"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "tema": "claro",
+    "fondo": "#F6F4EF",
+    "texto": "#1F2420",
+    "superficie_alt": "#ECEAE2",
+    "hero": "centrado",
+    "forma": "suave",
+    "layout": "editorial",
+    "fuente_titulos": "Manrope",
+    "fuente_texto": "Manrope",
+    "destacado": "cursiva",
+    "fuente_acento": "Playfair Display",
+    "velocidad": "lenta",
+    "aurora": "ninguna"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.8,
+    "num_resenas": 117,
+    "maps_url": "https://www.google.com/maps/place/Cl%C3%ADnica+Ana+Calder%C3%B3n/@37.2769737,-5.9260091,17z/data=!4m6!3m5!1s0xd12717c4022de59:0xf8a1db196e1aa6b6!8m2!3d37.2769737!4d-5.9260091",
+    "consulta_mapa": "Clínica Ana Calderón, Av. Reyes Católicos, 77, 41702 Dos Hermanas"
+  },
+  "hero": {
+    "etiqueta": "Clínica estética · Dos Hermanas, Sevilla",
+    "titular": "Lo que te hace sentir bien,",
+    "titular_destacado": "en buenas manos.",
+    "subtitular": "Microblading, láser, medicina estética y ecografía emocional en Dos Hermanas, con el cariño de quien te llama por tu nombre.",
+    "cta_texto": "Reservar mi cita"
+  },
+  "texto_sello": "Reserva tu cita · Clínica Ana Calderón · ",
+  "etiqueta_manifiesto": "Nuestra forma de hacer",
+  "manifiesto": "Aquí no vienes a que te hagan un tratamiento: vienes a que *te asesoren.* Escuchamos lo que buscas, te contamos lo que de verdad te va a quedar bien y lo hacemos con calma, para que salgas con la tranquilidad de haberte puesto *en buenas manos.*",
+  "marquesina": [
+    "Microblading",
+    "Depilación láser",
+    "Medicina estética",
+    "Ecografía emocional 5D",
+    "Maderoterapia",
+    "Dos Hermanas · Sevilla"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Te asesoramos, <span class=\"text-gradient\">no te vendemos</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "heart-handshake",
+      "titulo": "Te dejamos en buenas manos",
+      "texto": "Te asesoramos con sinceridad y encontramos contigo lo que va con tu estilo."
+    },
+    {
+      "icono": "gem",
+      "titulo": "Profesionalidad y buen gusto",
+      "texto": "Cuidamos cada detalle para que el resultado se vea natural y bonito."
+    },
+    {
+      "icono": "baby",
+      "titulo": "Momentos para recordar",
+      "texto": "Ecografías emocionales en un ambiente tranquilo, rodeada de tu familia."
+    },
+    {
+      "icono": "accessibility",
+      "titulo": "Accesible para todos",
+      "texto": "Entrada, aparcamiento y aseos adaptados para silla de ruedas."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "Todo lo que necesitas, <span class=\"text-gradient\">en un mismo sitio</span>",
+  "subtitulo_servicios": "De la mirada a la piel, y un momento único para las futuras mamás.",
+  "servicios": [
+    {
+      "nombre": "Microblading",
+      "descripcion": "Cejas con trazo pelo a pelo y acabado hiperrealista, diseñadas para tu rostro.",
+      "icono": "pen-tool",
+      "detalles": [
+        "Diseño previo a tu medida",
+        "Acabado natural",
+        "Te asesoramos sobre el resultado"
+      ]
+    },
+    {
+      "nombre": "Depilación láser",
+      "descripcion": "Despídete de la cuchilla con sesiones cómodas y un plan adaptado a ti.",
+      "icono": "zap",
+      "detalles": [
+        "Plan por zonas",
+        "Valoración previa",
+        "Seguimiento sesión a sesión"
+      ]
+    },
+    {
+      "nombre": "Medicina estética",
+      "descripcion": "Tratamientos médico-estéticos para verte mejor sin perder tu expresión.",
+      "icono": "syringe",
+      "detalles": [
+        "Valoración personalizada",
+        "Resultados naturales",
+        "Resolvemos todas tus dudas"
+      ]
+    },
+    {
+      "nombre": "Nanolaser SPT",
+      "descripcion": "Tecnología láser para el cuidado de tu piel, dentro de nuestra estética avanzada.",
+      "icono": "scan-face",
+      "detalles": [
+        "Estudio de tu piel",
+        "Protocolo a tu medida",
+        "Te explicamos cada paso"
+      ]
+    },
+    {
+      "nombre": "Maderoterapia",
+      "descripcion": "Masaje corporal con instrumentos de madera para modelar y activar tu cuerpo.",
+      "icono": "leaf",
+      "detalles": [
+        "Sesiones relajantes",
+        "Plan por zonas",
+        "Combinable con otros tratamientos"
+      ]
+    },
+    {
+      "nombre": "Ecografía emocional 5D",
+      "descripcion": "Conoce la carita de tu bebé y vívelo con los tuyos en un ambiente tranquilo.",
+      "icono": "baby",
+      "detalles": [
+        "Ven acompañada de tu familia",
+        "Ambiente relajado",
+        "Una experiencia para recordar"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Ana Mora Salguero",
+      "estrellas": 5,
+      "fecha": "hace 2 años",
+      "texto": "Hemos ido a una sesión de eco 5d. Hemos a visto a nuestra pequeña súper bien, y con rodeados de nuestra familia. El trato por parte de Ana ha sido espectacular, su cariño, su entrega… una gran experiencia. Repetiría sin duda! Mil gracias por esta experiencia tan bonita ❤️…"
+    },
+    {
+      "autor": "Megasuperalice",
+      "estrellas": 5,
+      "fecha": "hace 6 años",
+      "texto": "Me encanta. Muy profesionales, muy buen gusto, vas con la tranquilidad de que esta en buenas manos y que saben lo que hacen. Puedes dejarte llevar por ellas porque te asesoran y encuentran tu gusto"
+    },
+    {
+      "autor": "Débora Luque Ramos",
+      "estrellas": 5,
+      "fecha": "hace 2 años",
+      "texto": "Trato inmejorable. Todo lo que hacen es con profesionalidad y con calidad. Recientemente nos hicimos la eco 5D y el ambiente fue tranquilo, relajado y muy muy emotivo. Una experiencia única y Ana una profesional de 10. El mejor centro sin duda!…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Profesionalidad y amabilidad absoluta."
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Ana no sólo es una gran profesional sino que también es una gran persona."
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Muy buenos profesionales y buena atención."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras clientas</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "9:00 – 18:00"
+    },
+    {
+      "dia": "Martes",
+      "horas": "9:00 – 18:00"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "9:00 – 18:00"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "9:00 – 18:00"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "9:00 – 18:00"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Alba",
+    "saludo": "¡Hola! Soy Alba, la asistente de la Clínica Ana Calderón 🌿 Te ayudo a elegir tratamiento o a reservar tu eco 5D en un momento.",
+    "pregunta_demo": "Hola, ¿tenéis cita para microblading?",
+    "teaser": "¿Te busco hueco? 🌿",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "09:30",
+      "11:00",
+      "12:30",
+      "15:30",
+      "17:00"
+    ],
+    "como_llegar": "Estamos en la Avenida Reyes Católicos, 77, en Dos Hermanas. El local es accesible y hay aparcamiento adaptado.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el jueves a las 11:00 para tu microblading. ¿Te lo reservo?",
+      "¿Quieres ver a tu bebé en 5D? Te busco cita en un minuto 🤰",
+      "¡Listo! Te mando la confirmación por WhatsApp 📲"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Cuándo se hace la eco 5D?",
+        "claves": [
+          "eco",
+          "5d",
+          "ecograf",
+          "bebe",
+          "embaraz",
+          "semana"
+        ],
+        "respuesta": "Escríbenos con tus semanas de embarazo y te decimos cuál es el mejor momento para verle la carita. Puedes venir con tu familia 💛 ¿Te busco cita?"
+      },
+      {
+        "pregunta": "¿El microblading queda natural?",
+        "claves": [
+          "microblading",
+          "ceja",
+          "natural",
+          "pelo a pelo"
+        ],
+        "respuesta": "Esa es la idea: diseñamos las cejas para tu rostro y trabajamos pelo a pelo para que el resultado sea natural. Antes de empezar lo vemos juntas."
+      },
+      {
+        "pregunta": "¿Cuántas sesiones de láser necesito?",
+        "claves": [
+          "laser",
+          "láser",
+          "depila",
+          "sesiones"
+        ],
+        "respuesta": "Depende de la zona y de tu tipo de vello. En la primera visita te hacemos una valoración y te damos un plan a tu medida."
+      },
+      {
+        "pregunta": "¿Qué tratamiento me recomiendas?",
+        "claves": [
+          "recomiend",
+          "no se que",
+          "cual me",
+          "aconsej"
+        ],
+        "respuesta": "Cuéntanos qué te gustaría mejorar y te asesoramos con sinceridad. Lo mejor es una primera valoración en la clínica, ¿te reservo una?"
+      }
+    ]
+  },
+  "cta_final_titulo": "Déjate llevar, *nosotras te asesoramos.*",
+  "cta_final_texto": "Escríbenos por WhatsApp y te buscamos hueco esta semana."
+}
