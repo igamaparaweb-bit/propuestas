@@ -1,0 +1,286 @@
+{
+  "slug": "kirei-centro-de-belleza-ecija",
+  "nombre": "Kirei Centro de Belleza",
+  "nombre_corto": "Kirei",
+  "sector_nombre": "Centro de belleza",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "servicio",
+  "palabra_servicio_plural": "servicios",
+  "ciudad": "Écija",
+  "barrio": "",
+  "direccion": "C. Cintería, 3, 41400 Écija",
+  "telefono": "644 43 34 70",
+  "whatsapp": "644 43 34 70",
+  "email": "",
+  "web_actual": "",
+  "logo_url": "",
+  "colores": {
+    "primario": "#E58F8F",
+    "secundario": "#F3D6CF",
+    "acento": "#C9A86A"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "layout": "inmersivo",
+    "tema": "oscuro",
+    "fondo": "#121216",
+    "texto": "#F1EDEA",
+    "superficie": "#1B1B21",
+    "superficie_alt": "#17171C",
+    "hero": "centrado",
+    "forma": "recto",
+    "fuente_titulos": "Shippori Mincho",
+    "fuente_texto": "Zen Kaku Gothic New",
+    "destacado": "cursiva",
+    "velocidad": "lenta",
+    "aurora": "sutil",
+    "fuente_acento": "EB Garamond"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 5,
+    "num_resenas": 64,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kirei%20Centro%20de%20Belleza%2C%20C.%20Cinteria%203%2C%20%C3%89cija",
+    "consulta_mapa": "Kirei Centro de Belleza, C. Cinteria, 3, 41400 Écija"
+  },
+  "hero": {
+    "etiqueta": "Centro de belleza · Écija",
+    "titular": "Belleza para cada día",
+    "titular_destacado": "y para el gran día.",
+    "subtitular": "Maquillaje de novia e invitada, uñas, depilación y tratamientos en el centro de Écija, con el mimo y el detalle de Lourdes y su equipo.",
+    "cta_texto": "Pedir mi cita"
+  },
+  "etiqueta_manifiesto": "Kirei · 綺麗",
+  "manifiesto": "Kirei significa *bonito* en japonés, y es lo que buscamos en cada detalle: unas uñas perfectas, una piel cuidada, un maquillaje que aguanta todo el día de tu boda. Te recibimos como en casa y no paramos hasta que te ves *exactamente como querías.*",
+  "marquesina": [
+    "Novias e invitadas",
+    "Maquillaje",
+    "Uñas",
+    "Depilación",
+    "Tratamientos",
+    "Écija"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "El detalle <span class=\"text-gradient\">lo es todo</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "heart-handshake",
+      "titulo": "Como en casa",
+      "texto": "Desde el primer minuto te sientes bienvenida y en buenas manos."
+    },
+    {
+      "icono": "clock",
+      "titulo": "Puntuales en tu boda",
+      "texto": "Tu maquillaje listo con antelación, adaptado a los tiempos de foto y vídeo."
+    },
+    {
+      "icono": "gem",
+      "titulo": "Al día en tendencias",
+      "texto": "Diseños de uñas y maquillaje con las últimas técnicas."
+    },
+    {
+      "icono": "sparkles",
+      "titulo": "Productos que cuidan",
+      "texto": "Trabajamos con productos de calidad en cada tratamiento."
+    }
+  ],
+  "etiqueta_servicios": "Servicios",
+  "titulo_servicios": "Todo lo bonito, <span class=\"text-gradient\">en un sitio</span>",
+  "subtitulo_servicios": "Desliza para verlos y reserva el tuyo en un minuto.",
+  "servicios": [
+    {
+      "nombre": "Maquillaje de novia",
+      "descripcion": "Tu maquillaje del gran día, probado antes y listo a tiempo para fotos y vídeo.",
+      "icono": "heart",
+      "detalles": [
+        "Prueba previa",
+        "Puntualidad total",
+        "Larga duración"
+      ]
+    },
+    {
+      "nombre": "Maquillaje de invitada",
+      "descripcion": "Para bodas, comuniones o cualquier evento en el que quieras brillar.",
+      "icono": "sparkles",
+      "detalles": [
+        "Eventos y celebraciones",
+        "A tu estilo",
+        "Pregúntanos por grupos"
+      ]
+    },
+    {
+      "nombre": "Uñas y diseños",
+      "descripcion": "Uñas impecables y diseños al día, cuidados hasta el último detalle.",
+      "icono": "palette",
+      "detalles": [
+        "Diseños a medida",
+        "Últimas tendencias",
+        "Acabado impecable"
+      ]
+    },
+    {
+      "nombre": "Manicura y pedicura",
+      "descripcion": "Manos y pies cuidados, con un acabado que dura.",
+      "icono": "hand",
+      "detalles": [
+        "Manicura",
+        "Pedicura",
+        "Para ti o para un evento"
+      ]
+    },
+    {
+      "nombre": "Depilación",
+      "descripcion": "Rápida, cuidadosa y con un resultado limpio.",
+      "icono": "feather",
+      "detalles": [
+        "Todas las zonas",
+        "Piel cuidada",
+        "Sin esperas"
+      ]
+    },
+    {
+      "nombre": "Tratamientos faciales",
+      "descripcion": "Tratamientos para que tu piel luzca sana y luminosa, también antes de tu boda.",
+      "icono": "droplets",
+      "detalles": [
+        "Según tu piel",
+        "Productos de calidad",
+        "Ideal como preparación de novia"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Cristina Aguilar Pérez",
+      "fecha": "hace un año",
+      "texto": "Trabajar con Lourdes como maquilladora el día de la boda es tener todo bajo control. Se adapta perfectamente a los tiempos de cada compañero y si decimos que foto y video llegan a una hora ella tiene el maquillaje acabado con suficiente antelación. Todo un placer tenerla de compañera."
+    },
+    {
+      "autor": "Miriam Cortés",
+      "fecha": "hace un año",
+      "texto": "¡Ángela es una verdadera artista! Desde el primer momento te hace sentir bienvenida y en buenas manos. Es súper detallista, cuidadosa y siempre está al tanto de las últimas tendencias. Sus trabajos son impecables: uñas perfectas, diseños…"
+    },
+    {
+      "autor": "Claudia M",
+      "fecha": "hace 3 años",
+      "texto": "La profesionalidad, el buen hacer y la amabilidad de Lourdes consiguen que cualquier tratamiento o servicio en Kirei tenga resultados excelentes. Es un placer ponerse en sus manos tanto para depilación como para manicura/pedicura,…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Desde el minuto uno Lourdes es una gran profesional, atenta y cercana."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Simpática, educada y muy profesional, hace que quieras repetir sí o sí."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Trato excelente, magnífica profesional, tratamientos fantásticos, todo de 10!!!"
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras clientas</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "10:00 – 13:30 · 17:30 – 20:30"
+    },
+    {
+      "dia": "Martes",
+      "horas": "10:00 – 13:30 · 17:30 – 20:30"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "10:00 – 13:30 · 17:30 – 20:30"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "10:00 – 13:30 · 17:30 – 20:30"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "10:00 – 13:30 · 17:30 – 20:30"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Hana",
+    "saludo": "¡Hola! Soy Hana, de Kirei 🌸 Te ayudo a elegir servicio, preparar tu maquillaje de novia o reservar tu cita.",
+    "pregunta_demo": "Hola, me caso en junio, ¿hacéis maquillaje de novia?",
+    "teaser": "¿Te busco hueco? 🌸",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "10:00",
+      "11:00",
+      "12:30",
+      "17:30",
+      "18:30",
+      "19:30"
+    ],
+    "como_llegar": "Estamos en la calle Cintería, 3, en el centro de Écija.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el martes a las 18:30 para tus uñas. ¿Te lo reservo?",
+      "¿Te casas? Te reservo la prueba de maquillaje de novia 💍",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Hacéis maquillaje de novia?",
+        "claves": [
+          "novia",
+          "boda",
+          "casar",
+          "caso"
+        ],
+        "respuesta": "¡Sí, y nos encanta! Hacemos una prueba antes y el día de la boda tu maquillaje está listo con tiempo para fotos y vídeo 💍 ¿Te reservo la prueba?"
+      },
+      {
+        "pregunta": "¿Y maquillaje para invitadas?",
+        "claves": [
+          "invitada",
+          "evento",
+          "comunion",
+          "madrina"
+        ],
+        "respuesta": "Claro: invitadas, madrinas, comuniones… Si venís varias, cuéntanos y organizamos las horas."
+      },
+      {
+        "pregunta": "¿Hacéis diseños de uñas?",
+        "claves": [
+          "uña",
+          "diseño",
+          "manicura",
+          "nail"
+        ],
+        "respuesta": "Sí, diseños al día y acabados impecables. Tráenos tu idea o te proponemos una."
+      },
+      {
+        "pregunta": "¿Qué horario tenéis?",
+        "claves": [
+          "horario",
+          "tarde",
+          "abris",
+          "hora"
+        ],
+        "respuesta": "De lunes a viernes, de 10:00 a 13:30 y de 17:30 a 20:30."
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva",
+  "cta_final_titulo": "Tu próxima cita, *bonita de verdad.*",
+  "cta_final_texto": "Escríbenos y te buscamos hueco, ya sea para tus uñas o para el día de tu boda."
+}
