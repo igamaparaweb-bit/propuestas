@@ -1,0 +1,245 @@
+{
+  "slug": "clinica-de-estetica-angels-mairena-del-aljarafe",
+  "nombre": "Clínica de Estética Angels",
+  "nombre_corto": "Angels",
+  "sector_nombre": "Centro de estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Mairena del Aljarafe",
+  "barrio": "PISA",
+  "direccion": "C. Exposición, 14, Loc 2, 41927 Mairena del Aljarafe (PISA)",
+  "telefono": "611 67 20 32",
+  "whatsapp": "611 67 20 32",
+  "email": "",
+  "web_actual": "https://esteticaangels.es/",
+  "logo_url": "",
+  "colores": {
+    "primario": "#C98F8A",
+    "secundario": "#E8C9B5",
+    "acento": "#D4AF6A"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "layout": "inmersivo",
+    "tema": "oscuro",
+    "fondo": "#14110F",
+    "texto": "#F3ECE6",
+    "superficie": "#1E1A17",
+    "superficie_alt": "#191513",
+    "hero": "centrado",
+    "forma": "medio",
+    "fuente_titulos": "Cormorant Garamond",
+    "fuente_texto": "Jost",
+    "destacado": "cursiva",
+    "fuente_acento": "Cormorant Garamond",
+    "velocidad": "lenta",
+    "aurora": "ninguna"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.9,
+    "num_resenas": 158,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20de%20Est%C3%A9tica%20Angels%2C%20C.%20Exposici%C3%B3n%2014%2C%20Mairena%20del%20Aljarafe",
+    "consulta_mapa": "Clínica de Estética Angels, C. Exposición 14, Mairena del Aljarafe"
+  },
+  "hero": {
+    "etiqueta": "Centro de estética · Mairena del Aljarafe",
+    "titular": "Regálate un momento",
+    "titular_destacado": "solo para ti.",
+    "subtitular": "Faciales, depilación láser, presoterapia y tratamientos relajantes en Mairena del Aljarafe, en manos que te cuidan de verdad.",
+    "cta_texto": "Pedir mi cita"
+  },
+  "etiqueta_manifiesto": "Angels",
+  "manifiesto": "Aquí vienes a desconectar. Te recibimos con calma, te escuchamos y cuidamos cada detalle para que salgas con la piel renovada y esa *sensación de paz* que dura mucho más que la sesión. Y si quieres compartirlo, *regálalo.*",
+  "marquesina": [
+    "Facial",
+    "Depilación láser",
+    "Presoterapia",
+    "Relajante",
+    "Tarjetas regalo",
+    "Mairena del Aljarafe"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Manos expertas, <span class=\"text-gradient\">trato de verdad</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "hand-heart",
+      "titulo": "Calidad humana",
+      "texto": "Te sientes en las manos de una gran profesional, y de una gran persona."
+    },
+    {
+      "icono": "sparkles",
+      "titulo": "Acabados impecables",
+      "texto": "Respetuosas, atentas y cuidadosas con cada detalle de tu tratamiento."
+    },
+    {
+      "icono": "ticket",
+      "titulo": "Bonos que compensan",
+      "texto": "Sesiones en bono a muy buen precio para que mantengas los resultados."
+    },
+    {
+      "icono": "gift",
+      "titulo": "El regalo perfecto",
+      "texto": "Tarjetas regalo para que alguien especial viva la experiencia."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "Tu momento, <span class=\"text-gradient\">a tu manera</span>",
+  "subtitulo_servicios": "Desliza para verlos y reserva el tuyo en un minuto.",
+  "servicios": [
+    {
+      "nombre": "Limpieza facial profunda",
+      "descripcion": "Una higiene completa para que tu piel respire, se renueve y luzca luminosa.",
+      "icono": "droplets",
+      "detalles": [
+        "Ideal para tu primera vez",
+        "Piel limpia y luminosa",
+        "Te explicamos cada paso"
+      ]
+    },
+    {
+      "nombre": "Tratamiento de vitaminas",
+      "descripcion": "Un extra de vitaminas para una piel jugosa y llena de luz.",
+      "icono": "citrus",
+      "detalles": [
+        "Combina con la limpieza facial",
+        "Efecto luminoso",
+        "Para todo tipo de pieles"
+      ]
+    },
+    {
+      "nombre": "Depilación láser",
+      "descripcion": "Despídete del vello con sesiones cómodas y un plan adaptado a ti.",
+      "icono": "zap",
+      "detalles": [
+        "Plan por zonas",
+        "Bonos de sesiones",
+        "Valoración previa"
+      ]
+    },
+    {
+      "nombre": "Presoterapia",
+      "descripcion": "Drenaje que alivia las piernas cansadas y te deja una sensación de ligereza.",
+      "icono": "waves",
+      "detalles": [
+        "Piernas ligeras",
+        "Sesión relajante",
+        "Disponible en bono"
+      ]
+    },
+    {
+      "nombre": "Tratamientos relajantes",
+      "descripcion": "Un rato para desconectar, soltar tensiones y salir en paz.",
+      "icono": "flower-2",
+      "detalles": [
+        "Ambiente tranquilo",
+        "Para ti o para regalar",
+        "Pregúntanos opciones"
+      ]
+    },
+    {
+      "nombre": "Tarjetas regalo",
+      "descripcion": "Regala una experiencia: una limpieza, un tratamiento relajante o el que tú elijas.",
+      "icono": "gift",
+      "detalles": [
+        "Para cualquier ocasión",
+        "Tú eliges el tratamiento",
+        "Un regalo que se recuerda"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Mari Tere Sanjo",
+      "fecha": "hace 5 días",
+      "texto": "Una experiencia maravillosa y totalmente recomendable. Fui gracias a un bono regalo que me hicieron unas amigas y, sinceramente, creo que ha sido uno de los mejores regalos que me han hecho nunca. ❤️…"
+    },
+    {
+      "autor": "Nora Martínez",
+      "fecha": "hace 2 semanas",
+      "texto": "De 10! Fui porque me regalaron una tarjeta regalo para hacerme una limpieza facial profunda y el tratamiento de vitaminas. Era la primera vez que me hacía una limpieza así que no sabía que esperar.…"
+    },
+    {
+      "autor": "María del Carmen Moriana Migueles",
+      "fecha": "hace 5 meses",
+      "texto": "Quiero compartir mi experiencia en el centro de estética Angels porque ha sido excepcional desde el principio.…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "En las manos de una gran profesional con una calidad humana inigualable."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "👏🏻👏🏻 Sacan bonos a muy buen precio y las sesiones son geniales."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Son respetuosas, atentas y con unos acabados estupendos."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras clientas</span>",
+  "horario": [],
+  "asistente": {
+    "nombre": "Ángela",
+    "saludo": "¡Hola! Soy Ángela, de Estética Angels ✨ Te ayudo a elegir tratamiento, reservar tu cita o preparar una tarjeta regalo.",
+    "pregunta_demo": "Hola, ¿tenéis cita para una limpieza facial?",
+    "teaser": "¿Te reservo tu momento? ✨",
+    "dias_cerrados": [
+      0
+    ],
+    "horas": [
+      "10:00",
+      "11:30",
+      "13:00",
+      "16:30",
+      "18:00",
+      "19:00"
+    ],
+    "como_llegar": "Estamos en la calle Exposición, 14 (local 2), en el PISA de Mairena del Aljarafe.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el jueves a las 18:00 para tu limpieza facial. ¿Te lo reservo?",
+      "¿Quieres regalar una sesión? Te ayudo con la tarjeta regalo 🎁",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Tenéis tarjetas regalo?",
+        "claves": [
+          "regalo",
+          "regalar",
+          "tarjeta",
+          "cumple"
+        ],
+        "respuesta": "¡Sí! Puedes regalar una limpieza facial, un tratamiento relajante o el que prefieras. Escríbenos y te la preparamos 🎁"
+      },
+      {
+        "pregunta": "¿Hacéis bonos?",
+        "claves": [
+          "bono",
+          "sesiones",
+          "pack"
+        ],
+        "respuesta": "Sí, tenemos bonos de sesiones a muy buen precio, por ejemplo de depilación láser o presoterapia. Te contamos las opciones en tu cita."
+      },
+      {
+        "pregunta": "Es mi primera limpieza, ¿cómo es?",
+        "claves": [
+          "primera vez",
+          "nunca",
+          "como es",
+          "limpieza"
+        ],
+        "respuesta": "Tranquila: te explicamos cada paso y adaptamos la limpieza a tu piel. Muchas clientas vienen por primera vez y repiten. ¿Te reservo una?"
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva",
+  "cta_final_titulo": "Tu momento *te está esperando.*",
+  "cta_final_texto": "Escríbenos y te buscamos hueco esta semana. O regálaselo a quien quieras."
+}
