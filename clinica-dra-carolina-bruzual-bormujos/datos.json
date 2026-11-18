@@ -1,0 +1,266 @@
+{
+  "slug": "clinica-dra-carolina-bruzual-bormujos",
+  "nombre": "Clínica Dra. Carolina Bruzual",
+  "nombre_corto": "Dra. Bruzual",
+  "sector_nombre": "Oculoplastia y medicina estética",
+  "icono_sector": "eye",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Bormujos",
+  "barrio": "",
+  "direccion": "C. Paraje de Paterna, 4, locales 8-9, 41930 Bormujos",
+  "telefono": "695 03 83 56",
+  "whatsapp": "695 03 83 56",
+  "email": "",
+  "web_actual": "https://dracarolinabruzual.es/",
+  "logo_url": "",
+  "colores": {
+    "primario": "#2D4C9C",
+    "secundario": "#DDE5F4",
+    "acento": "#D9A441"
+  },
+  "estilo": {
+    "arquetipo": "clinica-studio",
+    "layout": "editorial",
+    "tema": "claro",
+    "fondo": "#F7F7F4",
+    "texto": "#141A2A",
+    "superficie": "#FFFFFF",
+    "superficie_alt": "#EEF0F3",
+    "hero": "centrado",
+    "forma": "recto",
+    "fuente_titulos": "DM Serif Display",
+    "fuente_texto": "Schibsted Grotesk",
+    "destacado": "cursiva",
+    "fuente_acento": "Crimson Pro",
+    "velocidad": "normal",
+    "aurora": "ninguna"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.4,
+    "num_resenas": 109,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Dra.%20Carolina%20Bruzual%2C%20Bormujos",
+    "consulta_mapa": "Clínica Dra. Carolina Bruzual, C. Paraje de Paterna, 4, Bormujos"
+  },
+  "hero": {
+    "etiqueta": "Oculoplastia y medicina estética · Bormujos",
+    "titular": "Una mirada descansada,",
+    "titular_destacado": "en manos especialistas.",
+    "subtitular": "Cirugía de párpados, medicina estética y láser en Bormujos, con valoración médica personalizada y un equipo que te explica cada paso.",
+    "cta_texto": "Pedir valoración"
+  },
+  "texto_sello": "Oculoplastia · Medicina estética · ",
+  "etiqueta_manifiesto": "Nuestra forma de trabajar",
+  "manifiesto": "La mirada es lo primero que ven de ti, y también lo más delicado. Por eso la tratamos con *precisión médica* y sin exagerar: estudiamos tu caso, te contamos qué podemos hacer y qué no, y buscamos un resultado que te devuelva *tu mejor versión*, no otra cara.",
+  "etiqueta_cta": "Valoración",
+  "marquesina": [
+    "Oculoplastia",
+    "Blefaroplastia",
+    "Medicina estética",
+    "Láser",
+    "Mirada",
+    "Bormujos"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Especialistas <span class=\"text-gradient\">en tu mirada</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "eye",
+      "titulo": "Especialidad en oculoplastia",
+      "texto": "Párpados y zona periocular tratados por especialistas en la mirada."
+    },
+    {
+      "icono": "stethoscope",
+      "titulo": "Valoración médica",
+      "texto": "Estudiamos tu caso antes de proponerte ningún tratamiento."
+    },
+    {
+      "icono": "heart-handshake",
+      "titulo": "Atención cálida",
+      "texto": "Un equipo atento que te acompaña antes, durante y después."
+    },
+    {
+      "icono": "zap",
+      "titulo": "Láser y medicina estética",
+      "texto": "Tratamientos médicos y láser para completar tu resultado."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "De la mirada <span class=\"text-gradient\">a todo el rostro</span>",
+  "subtitulo_servicios": "Toca cada tratamiento para ver más y pedir tu valoración.",
+  "servicios": [
+    {
+      "nombre": "Blefaroplastia",
+      "descripcion": "Cirugía de párpados para corregir el exceso de piel y las bolsas y recuperar una mirada descansada.",
+      "icono": "eye",
+      "detalles": [
+        "Párpado superior e inferior",
+        "Valoración previa",
+        "Seguimiento postoperatorio"
+      ]
+    },
+    {
+      "nombre": "Oculoplastia",
+      "descripcion": "Cirugía especializada de párpados y zona periocular, funcional y estética.",
+      "icono": "scan-eye",
+      "detalles": [
+        "Especialidad médica",
+        "Funcional y estética",
+        "Plan a tu medida"
+      ]
+    },
+    {
+      "nombre": "Ojeras y mirada cansada",
+      "descripcion": "Tratamientos médicos para suavizar ojeras y devolver luz a tu mirada.",
+      "icono": "sparkles",
+      "detalles": [
+        "Sin cirugía",
+        "Resultado natural",
+        "Valoración médica"
+      ]
+    },
+    {
+      "nombre": "Medicina estética facial",
+      "descripcion": "Tratamientos para tu rostro con un criterio médico y natural.",
+      "icono": "syringe",
+      "detalles": [
+        "Plan personalizado",
+        "Resultados naturales",
+        "Revisión posterior"
+      ]
+    },
+    {
+      "nombre": "Láser",
+      "descripcion": "Tecnología láser para mejorar la calidad y el aspecto de tu piel.",
+      "icono": "zap",
+      "detalles": [
+        "Según tu piel",
+        "Sesiones cómodas",
+        "Seguimiento"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Lorena Sayago",
+      "fecha": "hace 5 meses",
+      "texto": "Quiero expresar mi más sincero agradecimiento al Dr. Roberto Anaya por la excelente atención y profesionalidad que ha demostrado durante la operación de mi padre. Desde el primer momento nos transmitió confianza, cercanía y una gran…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Hoy fui a tratarme con la doctora Duarte Y debo decir que ha sido espectacular."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "La atención es cálida y de mucha profesionalidad."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Me llevo muy buena impresión de todos, muy atentos y serviciales."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestros pacientes</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "10:00 – 18:00"
+    },
+    {
+      "dia": "Martes",
+      "horas": "10:00 – 18:00"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "10:00 – 18:00"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "10:00 – 18:00"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "10:00 – 14:30"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Iris",
+    "saludo": "¡Hola! Soy Iris, de la Clínica Dra. Bruzual 👁️ Cuéntame qué te preocupa de tu mirada o tu piel y te busco una valoración.",
+    "pregunta_demo": "Hola, tengo bolsas en los párpados, ¿qué me recomendáis?",
+    "teaser": "¿Te busco una valoración? ✨",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "10:00",
+      "11:30",
+      "13:00",
+      "15:30",
+      "16:30",
+      "17:30"
+    ],
+    "como_llegar": "Estamos en la calle Paraje de Paterna, 4 (locales 8-9), en Bormujos.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el martes a las 11:30 para tu valoración de mirada. ¿Te lo reservo?",
+      "Cuéntame qué te preocupa: párpados, ojeras o piel ✨",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Qué es la blefaroplastia?",
+        "claves": [
+          "blefaro",
+          "parpado",
+          "bolsa",
+          "piel caida"
+        ],
+        "respuesta": "Es la cirugía de párpados: retira el exceso de piel o las bolsas para una mirada más descansada. Primero hacemos una valoración para ver si es lo que necesitas."
+      },
+      {
+        "pregunta": "¿Qué es la oculoplastia?",
+        "claves": [
+          "oculoplastia",
+          "ocular",
+          "ojo"
+        ],
+        "respuesta": "Es la especialidad que trata los párpados y la zona de alrededor del ojo, tanto por motivos estéticos como funcionales."
+      },
+      {
+        "pregunta": "¿Hay tratamientos sin cirugía para las ojeras?",
+        "claves": [
+          "ojera",
+          "sin cirugia",
+          "cansada"
+        ],
+        "respuesta": "Sí, hay opciones de medicina estética para suavizar ojeras y mirada cansada. En la valoración te decimos cuál encaja contigo."
+      },
+      {
+        "pregunta": "¿Qué horario tenéis?",
+        "claves": [
+          "horario",
+          "abris",
+          "viernes",
+          "tarde"
+        ],
+        "respuesta": "De lunes a jueves, de 10:00 a 18:00, y los viernes de 10:00 a 14:30."
+      }
+    ]
+  },
+  "cta_final_titulo": "Empieza por *una valoración.*",
+  "cta_final_texto": "Escríbenos y te buscamos hueco con el especialista. Sin compromiso.",
+  "texto_ubicacion": "C. Paraje de Paterna, 4 · Bormujos"
+}
