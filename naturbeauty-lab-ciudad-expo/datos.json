@@ -1,0 +1,280 @@
+{
+  "slug": "naturbeauty-lab-ciudad-expo",
+  "nombre": "NaturBeauty Lab",
+  "nombre_corto": "NaturBeauty Lab",
+  "sector_nombre": "Clínica médico estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Mairena del Aljarafe",
+  "barrio": "Ciudad Expo",
+  "direccion": "Circuito 2, Av. de los Descubrimientos, 1.ª planta, local 42A, 41927 Mairena del Aljarafe",
+  "telefono": "954 18 08 40",
+  "whatsapp": "",
+  "contacto": "telefono",
+  "email": "",
+  "web_actual": "http://naturbeautylab.es/",
+  "logo_url": "",
+  "colores": {
+    "primario": "#A7C4A0",
+    "secundario": "#DCE7D5",
+    "acento": "#C88B5A"
+  },
+  "estilo": {
+    "arquetipo": "clinica-studio",
+    "layout": "editorial",
+    "tema": "oscuro",
+    "fondo": "#101311",
+    "texto": "#ECEEE9",
+    "superficie": "#181C19",
+    "superficie_alt": "#161A17",
+    "hero": "centrado",
+    "forma": "medio",
+    "fuente_titulos": "Instrument Sans",
+    "fuente_texto": "Instrument Sans",
+    "destacado": "cursiva",
+    "fuente_acento": "Newsreader",
+    "velocidad": "normal",
+    "aurora": "ninguna"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.9,
+    "num_resenas": 429,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=NaturBeauty%20Lab%2C%20Ciudad%20Expo%2C%20Mairena%20del%20Aljarafe",
+    "consulta_mapa": "NaturBeauty Lab, Av. de los Descubrimientos, Ciudad Expo, Mairena del Aljarafe"
+  },
+  "hero": {
+    "etiqueta": "Clínica médico estética · Ciudad Expo, Mairena del Aljarafe",
+    "titular": "Medicina estética que te cuida,",
+    "titular_destacado": "sin hacerte esperar.",
+    "subtitular": "Facial, corporal y capilar en Ciudad Expo, con valoración médica, tecnología actual y un equipo que respeta tu tiempo.",
+    "cta_texto": "Llamar para pedir cita"
+  },
+  "texto_sello": "Pide tu cita · NaturBeauty Lab · ",
+  "etiqueta_manifiesto": "Nuestro método",
+  "manifiesto": "Unimos el rigor de la *medicina estética* con el cuidado de un equipo que te acompaña en cada paso. Te valoramos, te explicamos qué vamos a hacer y por qué, y te recibimos a tu hora. Así de sencillo: *resultados, confianza y tiempo para ti.*",
+  "marquesina": [
+    "Facial",
+    "Corporal",
+    "Capilar",
+    "Medicina estética",
+    "Ciudad Expo · Mairena"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Confianza que <span class=\"text-gradient\">se gana cita a cita</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "stethoscope",
+      "titulo": "Valoración médica",
+      "texto": "Te atiende una doctora que estudia tu caso antes de cualquier tratamiento."
+    },
+    {
+      "icono": "clock",
+      "titulo": "Puntuales contigo",
+      "texto": "Respetamos el horario de tu cita, sin hacerte esperar."
+    },
+    {
+      "icono": "building-2",
+      "titulo": "Instalaciones cuidadas",
+      "texto": "Un espacio cómodo y moderno en Ciudad Expo."
+    },
+    {
+      "icono": "heart",
+      "titulo": "Todas bienvenidas",
+      "texto": "Clínica de propietarias mujeres y amigable con la comunidad LGBTQ+."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "Facial, corporal <span class=\"text-gradient\">y capilar</span>",
+  "subtitulo_servicios": "Toca cada tratamiento para ver más y reservar.",
+  "servicios": [
+    {
+      "nombre": "Medicina estética facial",
+      "descripcion": "Tratamientos médicos para tu rostro, siempre con valoración previa de la doctora.",
+      "icono": "syringe",
+      "detalles": [
+        "Valoración médica",
+        "Plan a tu medida",
+        "Resultados naturales"
+      ]
+    },
+    {
+      "nombre": "Limpieza facial e hidrofacial",
+      "descripcion": "Una piel limpia, hidratada y luminosa, con una sesión en la que te sentirás muy cómoda.",
+      "icono": "droplets",
+      "detalles": [
+        "Limpieza profunda",
+        "Hidratación",
+        "Ideal para regalar"
+      ]
+    },
+    {
+      "nombre": "Presoterapia, cavitación y drenaje",
+      "descripcion": "Combinación corporal para drenar, reducir volumen y sentir las piernas ligeras.",
+      "icono": "waves",
+      "detalles": [
+        "Plan por sesiones",
+        "Drenaje linfático",
+        "Seguimiento de resultados"
+      ]
+    },
+    {
+      "nombre": "Masaje corporal",
+      "descripcion": "Un rato para soltar tensiones y desconectar en manos expertas.",
+      "icono": "hand",
+      "detalles": [
+        "Relajante",
+        "Para ti o para regalar",
+        "Pregúntanos opciones"
+      ]
+    },
+    {
+      "nombre": "Tratamientos capilares",
+      "descripcion": "Estudiamos tu cabello y tu cuero cabelludo para proponerte el tratamiento adecuado.",
+      "icono": "scan-face",
+      "detalles": [
+        "Diagnóstico capilar",
+        "Plan personalizado",
+        "Seguimiento"
+      ]
+    },
+    {
+      "nombre": "Consulta de cirugía estética",
+      "descripcion": "Te informamos con calma y honestidad sobre las opciones quirúrgicas para tu caso.",
+      "icono": "clipboard-check",
+      "detalles": [
+        "Consulta informativa",
+        "Resolvemos tus dudas",
+        "Sin compromiso"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Carolina Muñoz Garcia",
+      "fecha": "hace 2 semanas",
+      "texto": "Muy buenas instalaciones, personal excelente y respetan el horario de las citas, sin hacerte esperar. Sin duda, sorpresa positiva. Muy contenta con la limpieza facial, me sentí muy cómoda y la profesional que me atendió me encantó. Muy recomendable esta clínica."
+    },
+    {
+      "autor": "Coronel camacho Rocío",
+      "fecha": "hace 2 semanas",
+      "texto": "Uno de los mejores regalos que me han hecho nunca, un masaje corporal y una limpieza hidro facial con las mejores. Son verdaderas profesionales, un equipo y unas recepcionistas muy amable. Me atendió Juana, un encanto .Volvería sin duda"
+    },
+    {
+      "autor": "Gloria Expósito",
+      "fecha": "hace 3 semanas",
+      "texto": "Me ha encantado, ha sido una experiencia muy buena y positiva, mi tratamiento lo comienzo la semana que viene, pero ya la preparación promete, tengo mucha ilusión de tener mi cara en condiciones. Gracias. Ya he empezado mi tratamiento, ha…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Llevo solo dos sesiones de preso con cavitación y drenaje y estoy encantada."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Hoy estuve en la clínica y me ha atendido la doctora Victoria."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras pacientes</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "10:00 – 20:00"
+    },
+    {
+      "dia": "Martes",
+      "horas": "10:00 – 20:00"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "10:00 – 20:00"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "10:00 – 14:00"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Vera",
+    "saludo": "¡Hola! Soy Vera, de NaturBeauty Lab 🌿 Dime qué te gustaría mejorar y te ayudo a elegir tratamiento y reservar tu cita.",
+    "pregunta_demo": "Hola, ¿tenéis cita para una limpieza facial?",
+    "teaser": "¿Te busco hueco? 🌿",
+    "dias_cerrados": [
+      0
+    ],
+    "horas": [
+      "10:00",
+      "11:30",
+      "13:00",
+      "16:30",
+      "18:00",
+      "19:00"
+    ],
+    "como_llegar": "Estamos en el centro comercial Ciudad Expo (Circuito 2, Av. de los Descubrimientos, 1.ª planta, local 42A), en Mairena del Aljarafe.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el martes a las 11:30 para tu limpieza facial. ¿Te lo reservo?",
+      "Dime qué quieres mejorar y te oriento: facial, corporal o capilar 🌿",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Me atiende una doctora?",
+        "claves": [
+          "doctor",
+          "medic",
+          "valoracion",
+          "consulta"
+        ],
+        "respuesta": "Sí: los tratamientos de medicina estética empiezan con una valoración médica para estudiar tu caso. ¿Te reservo una?"
+      },
+      {
+        "pregunta": "¿Cómo funciona la presoterapia con cavitación?",
+        "claves": [
+          "preso",
+          "cavitacion",
+          "drenaje",
+          "piernas"
+        ],
+        "respuesta": "Combinamos presoterapia, cavitación y drenaje en un plan por sesiones. Muchas clientas notan la diferencia desde las primeras sesiones. Te lo explicamos en tu cita."
+      },
+      {
+        "pregunta": "¿Hacéis tratamientos capilares?",
+        "claves": [
+          "capilar",
+          "pelo",
+          "cabello",
+          "caida"
+        ],
+        "respuesta": "Sí, estudiamos tu cabello y tu cuero cabelludo y te proponemos el tratamiento adecuado. ¿Te busco cita?"
+      },
+      {
+        "pregunta": "¿Tenéis tarjetas regalo?",
+        "claves": [
+          "regalo",
+          "regalar",
+          "tarjeta"
+        ],
+        "respuesta": "Sí, puedes regalar un masaje, una limpieza hidrofacial o el tratamiento que prefieras. Llámanos y te la preparamos 🎁"
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva",
+  "cta_final_titulo": "Tu cita, *a tu hora.*",
+  "cta_final_texto": "Llámanos o reserva online y te buscamos hueco esta semana."
+}
