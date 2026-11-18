@@ -1,0 +1,291 @@
+{
+  "slug": "ana-rocio-jimenez-estetica-ecija",
+  "nombre": "Ana Rocío Jiménez Estética",
+  "nombre_corto": "Ana Rocío Jiménez",
+  "sector_nombre": "Centro de estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Écija",
+  "barrio": "",
+  "direccion": "Av. del Genil, 11, 41400 Écija",
+  "telefono": "667 85 64 78",
+  "whatsapp": "667 85 64 78",
+  "email": "",
+  "web_actual": "",
+  "logo_url": "",
+  "colores": {
+    "primario": "#8E4F6E",
+    "secundario": "#EED5DE",
+    "acento": "#B8913F"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "layout": "editorial",
+    "tema": "claro",
+    "fondo": "#FBF6F2",
+    "texto": "#2A1F24",
+    "superficie": "#FFFFFF",
+    "superficie_alt": "#F4E9E8",
+    "hero": "centrado",
+    "forma": "suave",
+    "fuente_titulos": "Gloock",
+    "fuente_texto": "Outfit",
+    "destacado": "cursiva",
+    "fuente_acento": "Libre Baskerville",
+    "velocidad": "lenta",
+    "aurora": "sutil"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.8,
+    "num_resenas": 71,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ana%20Roc%C3%ADo%20Jim%C3%A9nez%20Est%C3%A9tica%2C%20Av.%20del%20Genil%2011%2C%20%C3%89cija",
+    "consulta_mapa": "Ana Rocío Jiménez Estética, Av. del Genil, 11, 41400 Écija"
+  },
+  "hero": {
+    "etiqueta": "Centro de estética · Écija",
+    "titular": "Tu belleza en manos",
+    "titular_destacado": "que la conocen.",
+    "subtitular": "Cejas, microblading, HIFU, láser y manicura en la avenida del Genil, con el trato cercano de Ana Rocío y un rato solo para ti.",
+    "cta_texto": "Pedir mi cita"
+  },
+  "texto_sello": "Pide tu cita · Ana Rocío Jiménez · ",
+  "etiqueta_manifiesto": "Mi forma de trabajar",
+  "manifiesto": "Cada clienta es distinta, y así la trato. Te escucho, te explico qué te va a sentar bien y cuido cada detalle, de las cejas a las manos, para que salgas *encantada contigo.* Un local tranquilo, sin prisas, donde *te sientes como en casa.*",
+  "etiqueta_cta": "Reserva",
+  "marquesina": [
+    "Cejas",
+    "Microblading",
+    "HIFU",
+    "Depilación láser",
+    "Manicura",
+    "Écija"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Trato exquisito, <span class=\"text-gradient\">resultado impecable</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "heart-handshake",
+      "titulo": "Te atiende Ana",
+      "texto": "Trato directo y cercano: la misma profesional de principio a fin."
+    },
+    {
+      "icono": "award",
+      "titulo": "Experiencia desde 2006",
+      "texto": "Muchos años cuidando la belleza de Écija."
+    },
+    {
+      "icono": "leaf",
+      "titulo": "Un local relajado",
+      "texto": "Un espacio agradable y tranquilo para desconectar."
+    },
+    {
+      "icono": "heart",
+      "titulo": "Todas bienvenidas",
+      "texto": "Centro de propietarias mujeres y amigable con la comunidad LGBTQ+."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "De la mirada <span class=\"text-gradient\">a las manos</span>",
+  "subtitulo_servicios": "Toca cada tratamiento para ver más y reservar.",
+  "servicios": [
+    {
+      "nombre": "Diseño de cejas",
+      "descripcion": "Depilación, diseño y tinte para unas cejas que enmarcan tu mirada.",
+      "icono": "eye",
+      "detalles": [
+        "Diseño a tu medida",
+        "Tinte de cejas",
+        "Acabado natural"
+      ]
+    },
+    {
+      "nombre": "Microblading",
+      "descripcion": "Cejas definidas pelo a pelo, con un resultado natural que dura.",
+      "icono": "pen-tool",
+      "detalles": [
+        "Efecto pelo a pelo",
+        "Valoración previa",
+        "Retoque incluido en el plan"
+      ]
+    },
+    {
+      "nombre": "HIFU",
+      "descripcion": "Ultrasonido focalizado para tensar y redefinir el óvalo sin pasar por quirófano.",
+      "icono": "activity",
+      "detalles": [
+        "Sin agujas",
+        "Efecto tensor",
+        "Valoración previa"
+      ]
+    },
+    {
+      "nombre": "Depilación láser",
+      "descripcion": "Despídete del vello con un plan de sesiones adaptado a ti.",
+      "icono": "zap",
+      "detalles": [
+        "Plan por zonas",
+        "Sesiones cómodas",
+        "Seguimiento"
+      ]
+    },
+    {
+      "nombre": "Depilación con cera",
+      "descripcion": "Rápida, cuidadosa y con un acabado limpio.",
+      "icono": "flame",
+      "detalles": [
+        "Todas las zonas",
+        "Piel cuidada",
+        "Sin esperas"
+      ]
+    },
+    {
+      "nombre": "Manicura y semipermanente",
+      "descripcion": "Manos cuidadas y uñas perfectas durante semanas, también en francesa.",
+      "icono": "hand",
+      "detalles": [
+        "Semipermanente",
+        "Francesa",
+        "Acabado duradero"
+      ]
+    },
+    {
+      "nombre": "Limpieza facial",
+      "descripcion": "Una piel limpia, luminosa y lista para lucirse.",
+      "icono": "droplets",
+      "detalles": [
+        "Limpieza profunda",
+        "Hidratación",
+        "Para todo tipo de piel"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Blanca Eugenia Padilla Parejao",
+      "fecha": "hace 7 meses",
+      "texto": "Encantadísima con el servicio, con el trato y con el resultado. Local muy agradable y relajado. A pesar de no tener cita, y estar próxima la hora de cierre, Ana me atendió con mucha profesionalidad y amabilidad. Un diez :)"
+    },
+    {
+      "autor": "Mariló Guerrero",
+      "fecha": "hace un mes",
+      "texto": "Recomiendo 100%, Ana es súper agradable!! Me encantó como.me dejó mis cejas,y mi manicura semiperpanente.😊…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Ana trabaja con absoluta profesionalidad."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Trato exquisito y gran profesional"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Muy buena atención y buenísima profesional"
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">mis clientas</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Martes",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Rocío",
+    "saludo": "¡Hola! Te atiendo desde el centro de Ana Rocío Jiménez 🌸 Dime qué te apetece y te busco cita.",
+    "pregunta_demo": "Hola, ¿tenéis cita para cejas y manicura?",
+    "teaser": "¿Te busco hueco? 🌸",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "10:00",
+      "11:30",
+      "13:00",
+      "16:00",
+      "17:30",
+      "19:00"
+    ],
+    "como_llegar": "Estamos en la avenida del Genil, 11, en Écija.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el jueves a las 17:30 para tus cejas. ¿Te lo reservo?",
+      "¿Cejas y manicura el mismo día? Te las pongo seguidas 💅",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Qué es el HIFU?",
+        "claves": [
+          "hifu",
+          "flacidez",
+          "tensar",
+          "ovalo"
+        ],
+        "respuesta": "Es un ultrasonido focalizado que estimula la piel en profundidad para un efecto tensor, sin agujas ni quirófano. Antes te hago una valoración para ver si es para ti."
+      },
+      {
+        "pregunta": "¿Cuánto dura el microblading?",
+        "claves": [
+          "microblading",
+          "pelo a pelo",
+          "cejas permanentes"
+        ],
+        "respuesta": "Depende de tu piel y tus cuidados, pero el resultado se mantiene mucho tiempo. En la valoración te lo explico todo con calma."
+      },
+      {
+        "pregunta": "¿Hacéis manicura semipermanente?",
+        "claves": [
+          "manicura",
+          "uñas",
+          "semipermanente",
+          "francesa"
+        ],
+        "respuesta": "Sí, semipermanente y francesa. Si quieres, la combinamos con las cejas en la misma visita."
+      },
+      {
+        "pregunta": "¿Abrís por la tarde?",
+        "claves": [
+          "tarde",
+          "horario",
+          "abris"
+        ],
+        "respuesta": "Sí: de lunes a viernes de 10:00 a 14:00 y de 16:00 a 20:00."
+      }
+    ]
+  },
+  "cta_final_titulo": "Un rato *solo para ti.*",
+  "cta_final_texto": "Escríbeme y te busco hueco esta semana, de mañana o de tarde.",
+  "texto_ubicacion": "Av. del Genil, 11 · Écija"
+}
