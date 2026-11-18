@@ -1,0 +1,258 @@
+{
+  "slug": "clinica-estetica-yolanda-jimenez-ecija",
+  "nombre": "Clínica Estética Yolanda Jiménez",
+  "nombre_corto": "Yolanda Jiménez",
+  "sector_nombre": "Clínica estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Écija",
+  "barrio": "",
+  "direccion": "C. Garcilaso, 3A, 41400 Écija",
+  "telefono": "955 13 88 24",
+  "whatsapp": "",
+  "contacto": "telefono",
+  "email": "",
+  "web_actual": "clinicayolandajimenez.com (no carga)",
+  "logo_url": "",
+  "colores": {
+    "primario": "#D6B992",
+    "secundario": "#F0E5D6",
+    "acento": "#8EA6C2"
+  },
+  "estilo": {
+    "arquetipo": "clinica-studio",
+    "layout": "inmersivo",
+    "tema": "oscuro",
+    "fondo": "#0D1220",
+    "texto": "#EEF0F4",
+    "superficie": "#151B2B",
+    "superficie_alt": "#111726",
+    "hero": "centrado",
+    "forma": "suave",
+    "fuente_titulos": "Marcellus",
+    "fuente_texto": "Albert Sans",
+    "destacado": "cursiva",
+    "fuente_acento": "Lora",
+    "velocidad": "lenta",
+    "aurora": "sutil"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.7,
+    "num_resenas": 36,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Est%C3%A9tica%20Yolanda%20Jim%C3%A9nez%2C%20C.%20Garcilaso%203A%2C%20%C3%89cija",
+    "consulta_mapa": "Clínica Estética Yolanda Jiménez, C. Garcilaso, 3A, 41400 Écija"
+  },
+  "hero": {
+    "etiqueta": "Clínica estética · Écija",
+    "titular": "Lo último en estética,",
+    "titular_destacado": "sin salir de Écija.",
+    "subtitular": "Medicina estética, aparatología y tratamientos faciales y corporales en la calle Garcilaso, con valoración de la doctora y un trato muy cercano.",
+    "cta_texto": "Llamar para pedir cita"
+  },
+  "etiqueta_manifiesto": "Nuestra clínica",
+  "manifiesto": "Llevamos años buscando *lo mejor* para tu piel: aparatología y productos de primer nivel, los mismos que en las grandes clínicas. Pero lo que no cambia es el trato: cercano, honesto y con una valoración médica antes de cada tratamiento, para que el resultado *cumpla lo que promete.*",
+  "marquesina": [
+    "Medicina estética",
+    "Arrugas",
+    "Aparatología",
+    "Facial",
+    "Corporal",
+    "Écija"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Nivel de gran ciudad, <span class=\"text-gradient\">trato de siempre</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "cpu",
+      "titulo": "Aparatología de primer nivel",
+      "texto": "Tecnología y productos a la altura de las grandes clínicas."
+    },
+    {
+      "icono": "stethoscope",
+      "titulo": "Valoración médica",
+      "texto": "La doctora estudia tu caso antes y hace el seguimiento después."
+    },
+    {
+      "icono": "lightbulb",
+      "titulo": "Siempre innovando",
+      "texto": "Incorporamos nuevos tratamientos y productos para ofrecerte lo último."
+    },
+    {
+      "icono": "heart-handshake",
+      "titulo": "Trato cercano",
+      "texto": "Un equipo encantador que te explica todo con calma."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "Tu piel, <span class=\"text-gradient\">en buenas manos</span>",
+  "subtitulo_servicios": "Desliza para verlos y pide tu valoración.",
+  "servicios": [
+    {
+      "nombre": "Medicina estética facial",
+      "descripcion": "Tratamientos médicos para tu rostro, con valoración previa y seguimiento de la doctora.",
+      "icono": "syringe",
+      "detalles": [
+        "Valoración médica",
+        "Revisión posterior",
+        "Resultados naturales"
+      ]
+    },
+    {
+      "nombre": "Tratamiento de arrugas",
+      "descripcion": "Suavizamos líneas de expresión con el tratamiento que mejor se adapta a tu piel.",
+      "icono": "scan-face",
+      "detalles": [
+        "Plan a tu medida",
+        "Seguimiento",
+        "Te explicamos cada opción"
+      ]
+    },
+    {
+      "nombre": "Aparatología facial",
+      "descripcion": "Tecnología avanzada para mejorar la firmeza, la luminosidad y la calidad de tu piel.",
+      "icono": "cpu",
+      "detalles": [
+        "Tecnología de última generación",
+        "Sin pasar por quirófano",
+        "Sesiones cómodas"
+      ]
+    },
+    {
+      "nombre": "Tratamientos faciales",
+      "descripcion": "Higiene, hidratación y luminosidad con productos de primera calidad.",
+      "icono": "droplets",
+      "detalles": [
+        "Según tu tipo de piel",
+        "Productos profesionales",
+        "Efecto inmediato"
+      ]
+    },
+    {
+      "nombre": "Tratamientos corporales",
+      "descripcion": "Aparatología y protocolos corporales para cuidar tu silueta.",
+      "icono": "activity",
+      "detalles": [
+        "Plan personalizado",
+        "Seguimiento de resultados",
+        "Pregúntanos opciones"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Angela NG",
+      "fecha": "hace un año",
+      "texto": "La clínica de Yolanda Jiménez puede compararse a nivel de aparatología y productos a las grandes clínicas de Madrid o Barcelona. Ella y su equipo van siempre buscando la innovación en sus productos y servicios, así como un trato muy cercano…"
+    },
+    {
+      "autor": "Inma Ayala",
+      "fecha": "hace un año",
+      "texto": "Una clínica totalmente recomendable. Todas son encantadoras y muy profesionales, cada tratamiento que me han hecho cumple lo que promete al 100%."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Todo genial y unas grandes profesionales!"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Buen trato, muy cercano."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras pacientes</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "9:30 – 20:00"
+    },
+    {
+      "dia": "Martes",
+      "horas": "9:30 – 20:00"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "9:30 – 20:00"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "9:30 – 20:00"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "9:30 – 20:00"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Lía",
+    "saludo": "¡Hola! Soy Lía, de la Clínica Yolanda Jiménez ✨ Cuéntame qué te gustaría mejorar y te busco una valoración.",
+    "pregunta_demo": "Hola, ¿qué podéis hacer para las arrugas de la frente?",
+    "teaser": "¿Te busco una valoración? ✨",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "9:30",
+      "11:00",
+      "12:30",
+      "16:00",
+      "17:30",
+      "19:00"
+    ],
+    "como_llegar": "Estamos en la calle Garcilaso, 3A, en Écija. Abrimos de lunes a viernes de 9:30 a 20:00, sin cerrar a mediodía.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el martes a las 17:30 para tu valoración. ¿Te lo reservo?",
+      "Cuéntame qué quieres mejorar y te oriento ✨",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Me valora una doctora?",
+        "claves": [
+          "doctor",
+          "medic",
+          "valora"
+        ],
+        "respuesta": "Sí: antes de cualquier tratamiento de medicina estética la doctora te valora, y después te revisamos para ver el resultado. ¿Te reservo la valoración?"
+      },
+      {
+        "pregunta": "¿Qué hacéis para las arrugas?",
+        "claves": [
+          "arruga",
+          "linea",
+          "expresion",
+          "frente",
+          "botox",
+          "toxina"
+        ],
+        "respuesta": "Depende de tu piel y de la zona: tenemos tratamientos médicos y de aparatología. En la valoración te explicamos la mejor opción para ti."
+      },
+      {
+        "pregunta": "¿Cerráis a mediodía?",
+        "claves": [
+          "mediodia",
+          "horario",
+          "tarde",
+          "abris"
+        ],
+        "respuesta": "No: de lunes a viernes abrimos de 9:30 a 20:00 sin cerrar, así que puedes venir en tu hora de comer."
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva",
+  "cta_final_titulo": "Tu valoración, *cuando te venga bien.*",
+  "cta_final_texto": "Llámanos o reserva online y te buscamos hueco, de 9:30 a 20:00 sin cerrar a mediodía."
+}
