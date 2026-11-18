@@ -1,0 +1,236 @@
+{
+  "slug": "centro-de-belleza-rosee-bormujos",
+  "nombre": "Centro de Belleza Rosee",
+  "nombre_corto": "Rosee",
+  "sector_nombre": "Centro de belleza",
+  "icono_sector": "flower-2",
+  "palabra_servicio": "servicio",
+  "palabra_servicio_plural": "servicios",
+  "ciudad": "Bormujos",
+  "barrio": "",
+  "direccion": "Av. San Juan de Dios, 51, 41930 Bormujos",
+  "telefono": "672 11 00 50",
+  "whatsapp": "672 11 00 50",
+  "email": "",
+  "web_actual": "",
+  "logo_url": "",
+  "colores": {
+    "primario": "#C2536D",
+    "secundario": "#F5D9DF",
+    "acento": "#6E9C8A"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "layout": "inmersivo",
+    "tema": "claro",
+    "fondo": "#F1F4F0",
+    "texto": "#24262A",
+    "superficie": "#FFFFFF",
+    "superficie_alt": "#E6ECE6",
+    "hero": "centrado",
+    "forma": "suave",
+    "fuente_titulos": "Sora",
+    "fuente_texto": "Karla",
+    "destacado": "cursiva",
+    "fuente_acento": "Petrona",
+    "velocidad": "normal",
+    "aurora": "sutil"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.7,
+    "num_resenas": 50,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20de%20belleza%20Rosee%2C%20Av.%20San%20Juan%20de%20Dios%2051%2C%20Bormujos",
+    "consulta_mapa": "Centro de belleza Rosee, Av. San Juan de Dios, 51, 41930 Bormujos"
+  },
+  "hero": {
+    "etiqueta": "Centro de belleza · Bormujos",
+    "titular": "Fresca como el rocío,",
+    "titular_destacado": "cuidada al detalle.",
+    "subtitular": "Manicura, tratamientos faciales y belleza en la avenida San Juan de Dios, con un trato exquisito, todo impecable y aparcamiento fácil.",
+    "cta_texto": "Pedir mi cita"
+  },
+  "etiqueta_manifiesto": "Rosée · rocío",
+  "manifiesto": "Rosée es *rocío* en francés: esa frescura de primera hora que queremos que te lleves de aquí. Ponemos lo mejor de nosotras en cada servicio, con una limpieza extrema y el mimo de siempre, para que salgas *ligera, cuidada y con ganas de volver.*",
+  "marquesina": [
+    "Manicura",
+    "Tratamientos faciales",
+    "Belleza",
+    "Limpieza extrema",
+    "Aparcamiento fácil",
+    "Bormujos"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Lo mejor de nosotras, <span class=\"text-gradient\">en cada servicio</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "sparkles",
+      "titulo": "Limpieza extrema",
+      "texto": "Un espacio impecable y cuidado en cada detalle."
+    },
+    {
+      "icono": "heart-handshake",
+      "titulo": "Trato exquisito",
+      "texto": "Atención cercana y profesional desde que entras."
+    },
+    {
+      "icono": "car",
+      "titulo": "Aparcamiento fácil",
+      "texto": "Llegas, aparcas y entras sin agobios."
+    },
+    {
+      "icono": "heart",
+      "titulo": "Todas bienvenidas",
+      "texto": "Centro de propietarias mujeres y amigable con la comunidad LGBTQ+."
+    }
+  ],
+  "etiqueta_servicios": "Servicios",
+  "titulo_servicios": "Tu rato <span class=\"text-gradient\">de cuidarte</span>",
+  "subtitulo_servicios": "Desliza para verlos y reserva el tuyo en un minuto.",
+  "servicios": [
+    {
+      "nombre": "Manicura",
+      "descripcion": "Manos cuidadas y uñas perfectas, con el acabado que más te guste.",
+      "icono": "hand",
+      "detalles": [
+        "Acabado a tu gusto",
+        "Uñas cuidadas",
+        "Rápida y cuidadosa"
+      ]
+    },
+    {
+      "nombre": "Pedicura",
+      "descripcion": "Pies cuidados y bonitos, listos para lucir.",
+      "icono": "footprints",
+      "detalles": [
+        "Cuidado completo",
+        "Acabado duradero",
+        "Pregúntanos opciones"
+      ]
+    },
+    {
+      "nombre": "Tratamientos faciales",
+      "descripcion": "Una piel limpia, fresca y luminosa, con productos de calidad.",
+      "icono": "droplets",
+      "detalles": [
+        "Según tu piel",
+        "Efecto fresco",
+        "Productos de calidad"
+      ]
+    },
+    {
+      "nombre": "Tratamientos de belleza",
+      "descripcion": "Cuéntanos qué te apetece y te proponemos el tratamiento ideal para ti.",
+      "icono": "flower-2",
+      "detalles": [
+        "Plan a tu medida",
+        "Asesoramiento",
+        "Trato exquisito"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Paula",
+      "fecha": "hace una semana",
+      "texto": "Trato exquisito, alta profesionalidad y limpieza extrema. En casa tratamiento ponen lo mejor de ellas. Súper recomendable"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Gran profesional y gran servicio, fácil aparcamiento."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras clientas</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Martes",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "10:00 – 14:00 · 16:00 – 20:00"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "10:00 – 20:00"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "9:00 – 15:00"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Rosa",
+    "saludo": "¡Hola! Soy Rosa, de Rosee 🌸 Dime qué te apetece y te busco hueco.",
+    "pregunta_demo": "Hola, ¿tenéis cita para manicura el jueves?",
+    "teaser": "¿Te busco hueco? 🌸",
+    "dias_cerrados": [
+      0,
+      1,
+      6
+    ],
+    "horas": [
+      "10:00",
+      "11:30",
+      "13:00",
+      "16:00",
+      "17:30",
+      "19:00"
+    ],
+    "como_llegar": "Estamos en la avenida San Juan de Dios, 51, en Bormujos. Se aparca fácil.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el jueves a las 13:00 para tu manicura. ¿Te lo reservo?",
+      "El jueves abrimos de 10:00 a 20:00 sin cerrar 🌸",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Qué horario tenéis?",
+        "claves": [
+          "horario",
+          "abris",
+          "lunes",
+          "viernes",
+          "tarde"
+        ],
+        "respuesta": "Martes y miércoles de 10:00 a 14:00 y de 16:00 a 20:00; jueves de 10:00 a 20:00 sin cerrar; viernes de 9:00 a 15:00. Lunes y fines de semana, cerrado."
+      },
+      {
+        "pregunta": "¿Se puede aparcar?",
+        "claves": [
+          "aparca",
+          "coche",
+          "parking"
+        ],
+        "respuesta": "Sí, se aparca fácil en la zona. Estamos en la avenida San Juan de Dios, 51."
+      },
+      {
+        "pregunta": "¿Hacéis manicura?",
+        "claves": [
+          "manicura",
+          "uña",
+          "pedicura"
+        ],
+        "respuesta": "Sí, manicura y pedicura con el acabado que prefieras. ¿Te busco hueco?"
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva",
+  "cta_final_titulo": "Date ese rato, *te lo mereces.*",
+  "cta_final_texto": "Escríbenos y te buscamos hueco esta semana."
+}
