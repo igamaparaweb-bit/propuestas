@@ -1,0 +1,265 @@
+{
+  "slug": "adda-estetica-utrera",
+  "nombre": "AdDa Estética",
+  "nombre_corto": "AdDa",
+  "sector_nombre": "Peluquería y estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "servicio",
+  "palabra_servicio_plural": "servicios",
+  "ciudad": "Utrera",
+  "barrio": "",
+  "direccion": "C. Alcalde Vicente Giráldez, 34, local, 41710 Utrera",
+  "telefono": "606 42 63 27",
+  "whatsapp": "606 42 63 27",
+  "email": "",
+  "web_actual": "",
+  "logo_url": "",
+  "colores": {
+    "primario": "#B4644A",
+    "secundario": "#E9C9B6",
+    "acento": "#5E4434"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "layout": "inmersivo",
+    "tema": "claro",
+    "fondo": "#F5EEE7",
+    "texto": "#2B211C",
+    "superficie": "#FFFFFF",
+    "superficie_alt": "#EFE4DA",
+    "hero": "centrado",
+    "forma": "recto",
+    "fuente_titulos": "Syne",
+    "fuente_texto": "Figtree",
+    "destacado": "cursiva",
+    "fuente_acento": "Bodoni Moda",
+    "velocidad": "normal",
+    "aurora": "sutil"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 5,
+    "num_resenas": 147,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=AdDa%20Est%C3%A9tica%2C%20C.%20Alcalde%20Vicente%20Gir%C3%A1ldez%2034%2C%20Utrera",
+    "consulta_mapa": "AdDa Estética, C. Alcalde Vicente Giráldez, 34, 41710 Utrera"
+  },
+  "hero": {
+    "etiqueta": "Peluquería y estética · Utrera",
+    "titular": "Por fin, unas cejas",
+    "titular_destacado": "que te encantan.",
+    "subtitular": "Diseño de cejas, pestañas, peluquería y tratamientos en el centro de Utrera, con un equipo que te conoce y te hace sentir en casa.",
+    "cta_texto": "Pedir mi cita"
+  },
+  "etiqueta_manifiesto": "AdDa",
+  "manifiesto": "Aquí no hay prisas ni fórmulas iguales para todas. Miramos tu cara, escuchamos lo que quieres y trabajamos el detalle hasta que te ves *como tú, pero mejor.* Por eso tantas clientas llevan años viniendo: porque aquí *se sienten en casa.*",
+  "marquesina": [
+    "Diseño de cejas",
+    "Pestañas",
+    "Peluquería",
+    "Manicura",
+    "Tratamientos",
+    "Utrera"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Años de oficio, <span class=\"text-gradient\">trato de casa</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "scan-face",
+      "titulo": "Especialistas en cejas",
+      "texto": "Diseñamos tus cejas según tu cara: muchas clientas vienen solo por ellas."
+    },
+    {
+      "icono": "graduation-cap",
+      "titulo": "Siempre en formación",
+      "texto": "Al día en técnicas y tratamientos para ofrecerte lo mejor."
+    },
+    {
+      "icono": "sparkles",
+      "titulo": "Limpieza y buen producto",
+      "texto": "Productos de calidad y un espacio cuidado al detalle."
+    },
+    {
+      "icono": "home",
+      "titulo": "Como en casa",
+      "texto": "Un equipo cercano que te conoce y te atiende sin prisas."
+    }
+  ],
+  "etiqueta_servicios": "Servicios",
+  "titulo_servicios": "Del detalle <span class=\"text-gradient\">a todo el look</span>",
+  "subtitulo_servicios": "Desliza para verlos y reserva el tuyo en un minuto.",
+  "servicios": [
+    {
+      "nombre": "Diseño y depilación de cejas",
+      "descripcion": "Estudiamos tu rostro para darte unas cejas bonitas, naturales y que te favorecen.",
+      "icono": "eye",
+      "detalles": [
+        "Diseño a tu medida",
+        "Acabado natural",
+        "Nuestra especialidad"
+      ]
+    },
+    {
+      "nombre": "Pestañas",
+      "descripcion": "Una mirada más abierta y definida, sin máscara cada mañana.",
+      "icono": "sparkle",
+      "detalles": [
+        "Efecto natural",
+        "Mirada despierta",
+        "Pregúntanos opciones"
+      ]
+    },
+    {
+      "nombre": "Peluquería",
+      "descripcion": "Corte, color y peinado para que tu pelo luzca como quieres.",
+      "icono": "scissors",
+      "detalles": [
+        "Corte y peinado",
+        "Color",
+        "Asesoramiento"
+      ]
+    },
+    {
+      "nombre": "Manicura",
+      "descripcion": "Manos cuidadas y uñas impecables, con el acabado que elijas.",
+      "icono": "hand",
+      "detalles": [
+        "Acabado a tu gusto",
+        "Uñas cuidadas",
+        "Ideal antes de un evento"
+      ]
+    },
+    {
+      "nombre": "Tratamientos de belleza",
+      "descripcion": "Cuidamos tu piel con tratamientos adaptados a lo que necesita.",
+      "icono": "droplets",
+      "detalles": [
+        "Valoración previa",
+        "Productos de calidad",
+        "Plan a tu medida"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Laura Santos García",
+      "fecha": "hace 3 años",
+      "texto": "Grandes profesionales y el mejor trato sin duda. Cuando llegué llevaba un desastre de cejas y Mari Carmen las ha cambiado  por completo, por fin me encantan mis cejas después de muchos años. Siempre salgo encantada de allí. Y mi pelo mejor…"
+    },
+    {
+      "autor": "Beatriz Martínez Román",
+      "fecha": "hace 4 años",
+      "texto": "Conozco a Mari Carmen hace ya 6 años. Es una gran profesional y no he conocido a nadie que depile las cejas tan perfectas y bonitas. Su equipo son grandes profesionales. La recomiendo al 100%. Te hacen sentir en casa ❤️"
+    },
+    {
+      "autor": "Eva Cebrian",
+      "fecha": "hace 4 años",
+      "texto": "Llevo yendo a esta peluquería desde que abrieron. Y qué decir de Mari Carmen, la conozco desde hace muchos años y me parece una grandísima profesional al frente de la estética, siempre en formación y ofreciendo…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "He ido varias veces para hacerme las cejas y te las dejan preciosas."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Buen trato, grandes profesionales, limpieza y calidad en los productos."
+    },
+    {
+      "autor": "Cliente de Google",
+      "fecha": "Reseña destacada en Google",
+      "texto": "Buena profesionalidad, muchos años yendo y siempre muy bien atendida."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras clientas</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "8:00 – 20:00"
+    },
+    {
+      "dia": "Martes",
+      "horas": "8:00 – 19:00"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "8:00 – 20:00"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "8:00 – 19:00"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "8:00 – 19:00"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Dalia",
+    "saludo": "¡Hola! Soy Dalia, de AdDa Estética ✨ Te ayudo a elegir servicio y a reservar tu cita en un momento.",
+    "pregunta_demo": "Hola, ¿tenéis cita para arreglarme las cejas?",
+    "teaser": "¿Te busco hueco? ✨",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "8:30",
+      "10:00",
+      "11:30",
+      "13:00",
+      "16:30",
+      "18:00"
+    ],
+    "como_llegar": "Estamos en la calle Alcalde Vicente Giráldez, 34, en Utrera.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el jueves a las 10:00 para tus cejas. ¿Te lo reservo?",
+      "Dime qué te apetece: cejas, pestañas, pelo o manos ✨",
+      "¡Hecho! Tu cita queda reservada ✨"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Cómo es el diseño de cejas?",
+        "claves": [
+          "ceja",
+          "diseño",
+          "depil"
+        ],
+        "respuesta": "Estudiamos tu cara y la forma natural de tus cejas para dejártelas bonitas y favorecedoras. Es nuestra especialidad 😉 ¿Te reservo?"
+      },
+      {
+        "pregunta": "¿Abrís temprano?",
+        "claves": [
+          "temprano",
+          "mañana",
+          "hora",
+          "abri"
+        ],
+        "respuesta": "Sí, abrimos a las 8:00 de lunes a viernes, ideal para venir antes del trabajo. Lunes y miércoles hasta las 20:00."
+      },
+      {
+        "pregunta": "¿Puedo hacerme cejas y pelo el mismo día?",
+        "claves": [
+          "pelo",
+          "peluqueria",
+          "corte",
+          "mismo dia"
+        ],
+        "respuesta": "Claro, te organizamos las citas seguidas para que lo hagas todo en una visita."
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva",
+  "cta_final_titulo": "Tu próxima cita, *en dos toques.*",
+  "cta_final_texto": "Escríbenos y te buscamos hueco esta semana, desde las 8 de la mañana."
+}
