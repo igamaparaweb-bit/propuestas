@@ -1,0 +1,252 @@
+{
+  "slug": "cristina-de-la-prida-la-buhaira",
+  "nombre": "Clínica Médico Estética Cristina de la Prida",
+  "nombre_corto": "Cristina de la Prida",
+  "sector_nombre": "Clínica médico estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Sevilla",
+  "barrio": "La Buhaira",
+  "direccion": "C. Juan de Zoyas, 2, 41018 Sevilla",
+  "telefono": "624 60 04 97",
+  "whatsapp": "624 60 04 97",
+  "email": "",
+  "web_actual": "",
+  "logo_url": "",
+  "colores": {
+    "primario": "#B5776A",
+    "secundario": "#D8A595",
+    "acento": "#C9A86A"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "tema": "claro",
+    "fondo": "#FAF8F5",
+    "texto": "#1C1917",
+    "superficie_alt": "#EFECE6",
+    "hero": "centrado",
+    "forma": "suave",
+    "layout": "editorial",
+    "fuente_titulos": "Plus Jakarta Sans",
+    "fuente_texto": "Plus Jakarta Sans",
+    "destacado": "cursiva",
+    "fuente_acento": "Cormorant Garamond",
+    "velocidad": "lenta",
+    "aurora": "ninguna"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 5,
+    "num_resenas": 283,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20m%C3%A9dico%20est%C3%A9tica%20Cristina%20de%20la%20Prida%2C%20C.%20Juan%20de%20Zoyas%202%2C%20Sevilla",
+    "consulta_mapa": "Clínica médico estética Cristina de la Prida, C. Juan de Zoyas, 2, 41018 Sevilla"
+  },
+  "hero": {
+    "etiqueta": "Clínica médico estética · La Buhaira, Sevilla",
+    "titular": "Belleza que se nota,",
+    "titular_destacado": "sin que se note.",
+    "subtitular": "Tratamientos faciales y corporales a tu medida, en un espacio pensado para que te sientas como en casa.",
+    "cta_texto": "Reservar mi cita"
+  },
+  "texto_sello": "Reserva tu cita · Cristina de la Prida · ",
+  "etiqueta_manifiesto": "Nuestra filosofía",
+  "manifiesto": "Cuidarte no debería ser complicado. Por eso empezamos siempre *escuchándote:* miramos tu piel, resolvemos tus dudas y diseñamos contigo un plan a tu medida. Para que salgas sintiéndote *tú, en tu mejor versión.*",
+  "marquesina": [
+    "Facial",
+    "Corporal",
+    "Mirada",
+    "Cuidado de la piel",
+    "La Buhaira · Sevilla"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Un lugar donde <span class=\"text-gradient\">sentirte en casa</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "heart-handshake",
+      "titulo": "Atención personalizada",
+      "texto": "Cada tratamiento empieza por escucharte. Nada de protocolos en serie."
+    },
+    {
+      "icono": "users-round",
+      "titulo": "Trato cercano",
+      "texto": "Te explicamos cada paso, sin prisas, para que te sientas cómoda desde el primer día."
+    },
+    {
+      "icono": "sparkles",
+      "titulo": "Un espacio cuidado al detalle",
+      "texto": "Decoración acogedora y una limpieza exhaustiva en cada cabina."
+    },
+    {
+      "icono": "heart",
+      "titulo": "Todas las pieles son bienvenidas",
+      "texto": "Somos un espacio seguro y amigable con la comunidad LGBTQ+."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "Tratamientos que <span class=\"text-gradient\">cuidan de ti</span>",
+  "subtitulo_servicios": "Facial, corporal y mirada, siempre con un diagnóstico personalizado antes de empezar.",
+  "servicios": [
+    {
+      "nombre": "Limpieza facial profunda",
+      "descripcion": "Higiene completa para una piel limpia, oxigenada y luminosa desde la primera sesión.",
+      "icono": "sparkles",
+      "detalles": [
+        "Diagnóstico de piel previo",
+        "Extracción e hidratación",
+        "Recomendaciones de cuidado en casa"
+      ]
+    },
+    {
+      "nombre": "HydraGlow",
+      "descripcion": "Tratamiento facial de hidratación intensa para un efecto glow inmediato.",
+      "icono": "droplets",
+      "detalles": [
+        "Limpieza, exfoliación e hidratación",
+        "Sin tiempo de recuperación",
+        "Ideal antes de un evento"
+      ]
+    },
+    {
+      "nombre": "Radiofrecuencia facial",
+      "descripcion": "Estimula el colágeno para una piel más firme y un óvalo facial redefinido.",
+      "icono": "waves",
+      "detalles": [
+        "Efecto tensor progresivo",
+        "Sesiones cómodas y relajantes",
+        "Protocolo adaptado a tu piel"
+      ]
+    },
+    {
+      "nombre": "Ishape corporal",
+      "descripcion": "Tratamiento corporal para remodelar y reafirmar las zonas que más te preocupan.",
+      "icono": "heart-pulse",
+      "detalles": [
+        "Plan personalizado por zonas",
+        "Sin cirugía",
+        "Seguimiento de resultados"
+      ]
+    },
+    {
+      "nombre": "Diseño de cejas",
+      "descripcion": "Cejas definidas y en armonía con tu rostro, con un acabado natural.",
+      "icono": "eye",
+      "detalles": [
+        "Estudio de tu visagismo",
+        "Acabado natural",
+        "Mantenimiento sencillo"
+      ]
+    },
+    {
+      "nombre": "Valoración personalizada",
+      "descripcion": "Te escuchamos, analizamos tu piel y diseñamos contigo el plan que necesitas.",
+      "icono": "clipboard-check",
+      "detalles": [
+        "Atención uno a uno",
+        "Plan de tratamiento a medida",
+        "Sin compromiso"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "M Luisa",
+      "estrellas": 5,
+      "fecha": "hace 3 semanas",
+      "texto": "Siempre es un placer acudir a la clínica de Cristina. Encantadoras todas, en esta ocasión traté con Mónica. Muy bien, y mis cejitas en su sitio.!!"
+    },
+    {
+      "autor": "VV74",
+      "estrellas": 5,
+      "fecha": "hace 4 meses",
+      "texto": "Acudí a esta clínica para una sesión de radiofrecuencia facial. Experiencia súper recomendable desde principio a fin. Desde su decoración impecable, que también es importante encontrarse en un lugar tan acogedor, limpieza exhaustiva y…"
+    },
+    {
+      "autor": "marga santos",
+      "estrellas": 5,
+      "fecha": "hace 2 años",
+      "texto": "Centro de Estética Avanzada Cristina de la Prida es ALUCINANTE!!! Profesionalidad total y su atención personalizada es única…"
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Fui para una limpieza facial y solo puedo decir que fue una gran experiencia."
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Gran servicio, profesionalidad y trato excelente."
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Muy buena experiencia con grandes profesionales... totalmente recomendable."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras pacientes</span>",
+  "horario": [],
+  "asistente": {
+    "nombre": "Cris",
+    "saludo": "¡Hola! Soy Cris, la asistente virtual de la Clínica Cristina de la Prida ✨ Te ayudo a elegir tratamiento y a reservar tu cita al momento, a cualquier hora.",
+    "pregunta_demo": "Hola, ¿tenéis cita para una limpieza facial?",
+    "teaser": "¿Te reservo tu cita? ✨",
+    "dias_cerrados": [
+      0
+    ],
+    "horas": [
+      "10:00",
+      "11:30",
+      "13:00",
+      "16:30",
+      "18:00",
+      "19:15"
+    ],
+    "como_llegar": "Estamos en la calle Juan de Zoyas, junto a La Buhaira, a un paso de Nervión.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco mañana a las 11:30 para tu limpieza facial. ¿Te lo reservo?",
+      "Puedes pedir tu cita aquí a cualquier hora, en un minuto ✨",
+      "¡Listo! Te mando la confirmación por WhatsApp 📲"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Qué tratamiento me recomiendas?",
+        "claves": [
+          "recomiend",
+          "no se que",
+          "cual me",
+          "aconsej"
+        ],
+        "respuesta": "Lo ideal es empezar con una valoración personalizada: analizamos tu piel y te proponemos el tratamiento que de verdad necesitas. ¿Te reservo una?"
+      },
+      {
+        "pregunta": "¿Cuánto dura una limpieza facial?",
+        "claves": [
+          "dura",
+          "tiempo",
+          "cuanto tarda"
+        ],
+        "respuesta": "Depende del tratamiento y de tu piel. Al reservar te indicamos la duración exacta, ¡y sales lista para seguir con tu día!"
+      },
+      {
+        "claves": [
+          "hombre",
+          "chico"
+        ],
+        "respuesta": "¡Claro! Atendemos a todo el mundo. Somos un espacio amigable con la comunidad LGBTQ+ y aquí todas las pieles son bienvenidas."
+      },
+      {
+        "claves": [
+          "booksy"
+        ],
+        "respuesta": "Si lo prefieres, seguimos teniendo reserva por Booksy, pero desde aquí te reservo en segundos sin salir de la web 😉"
+      }
+    ]
+  },
+  "cta_final_titulo": "Tu mejor versión *empieza con una cita.*",
+  "cta_final_texto": "Escríbenos por WhatsApp y te buscamos hueco esta misma semana."
+}
