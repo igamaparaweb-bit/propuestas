@@ -1,0 +1,272 @@
+{
+  "slug": "del-mar-centros-de-estetica-alcala-de-guadaira",
+  "nombre": "Del Mar Centros de Estética",
+  "nombre_corto": "Del Mar",
+  "sector_nombre": "Centro de estética",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Alcalá de Guadaíra",
+  "barrio": "",
+  "direccion": "C. Alcalá del Júcar, esq. Av. Santa Lucía, 1, Local 109, 41500 Alcalá de Guadaíra",
+  "telefono": "955 33 64 99",
+  "whatsapp": "",
+  "contacto": "telefono",
+  "email": "",
+  "web_actual": "",
+  "logo_url": "",
+  "colores": {
+    "primario": "#1F4E5F",
+    "secundario": "#6FA3A8",
+    "acento": "#D9B48F"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "layout": "inmersivo",
+    "tema": "claro",
+    "fondo": "#F4F1EC",
+    "texto": "#10222C",
+    "superficie": "#FFFFFF",
+    "superficie_alt": "#E9E4DC",
+    "hero": "centrado",
+    "forma": "suave",
+    "fuente_titulos": "Bricolage Grotesque",
+    "fuente_texto": "Inter Tight",
+    "destacado": "cursiva",
+    "fuente_acento": "Instrument Serif",
+    "velocidad": "lenta",
+    "aurora": "ninguna"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.9,
+    "num_resenas": 273,
+    "maps_url": "https://www.google.com/maps/place/Del+Mar+Centros+de+Est%C3%A9tica/@37.3305905,-5.8294472,17z/data=!4m6!3m5!1s0xd1264b16aafd5a9:0x341a5ac4c9d41ef6!8m2!3d37.3305905!4d-5.8294472",
+    "consulta_mapa": "Del Mar Centros de Estética, Calle Alcalá del Júcar 1, Alcalá de Guadaíra"
+  },
+  "hero": {
+    "etiqueta": "Centro de estética · Alcalá de Guadaíra",
+    "titular": "Te cuidamos",
+    "titular_destacado": "como el primer día.",
+    "subtitular": "Tratamientos faciales, corporales y láser en Alcalá de Guadaíra, con el trato cercano de María del Mar y su equipo.",
+    "cta_texto": "Llamar para pedir cita"
+  },
+  "etiqueta_manifiesto": "Nuestra forma de cuidarte",
+  "manifiesto": "Hay clientas que vienen desde hace más de quince años. No es casualidad: aquí el trato es *cercano, profesional y muy humano,* y cada tratamiento se piensa para ti. Para que vuelvas siempre con la tranquilidad de estar *en buenas manos.*",
+  "marquesina": [
+    "Facial",
+    "Corporal",
+    "Láser",
+    "Dermaplaning",
+    "Alcalá de Guadaíra"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Clientas de siempre, <span class=\"text-gradient\">por algo será</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "heart-handshake",
+      "titulo": "Un trato muy humano",
+      "texto": "Cercanas y profesionales: te escuchamos y te explicamos cada paso."
+    },
+    {
+      "icono": "infinity",
+      "titulo": "Años de confianza",
+      "texto": "Muchas de nuestras clientas llevan más de una década con nosotras."
+    },
+    {
+      "icono": "sparkles",
+      "titulo": "Resultados que se notan",
+      "texto": "Tratamientos pensados para tu piel, con seguimiento sesión a sesión."
+    },
+    {
+      "icono": "flask-conical",
+      "titulo": "Te asesoramos también en casa",
+      "texto": "Te recomendamos los productos que de verdad necesita tu piel."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "Lo que hacemos <span class=\"text-gradient\">por ti</span>",
+  "subtitulo_servicios": "Desliza para verlos todos y llámanos para reservar el tuyo.",
+  "servicios": [
+    {
+      "nombre": "Higiene facial",
+      "descripcion": "Limpieza profunda con extracción para una piel limpia, luminosa y sin impurezas.",
+      "icono": "droplets",
+      "detalles": [
+        "Estudio de tu piel",
+        "Extracción cuidadosa",
+        "Pautas para casa"
+      ]
+    },
+    {
+      "nombre": "Dermaplaning",
+      "descripcion": "Exfoliación que elimina células muertas y vello fino para una piel más suave.",
+      "icono": "feather",
+      "detalles": [
+        "Piel más luminosa",
+        "Mejor absorción de tus cremas",
+        "Sin tiempo de recuperación"
+      ]
+    },
+    {
+      "nombre": "Tratamientos para el acné",
+      "descripcion": "Un plan para calmar la piel con tendencia acneica y prevenir nuevos brotes.",
+      "icono": "shield-check",
+      "detalles": [
+        "Valoración previa",
+        "Plan por sesiones",
+        "Seguimiento de resultados"
+      ]
+    },
+    {
+      "nombre": "Tratamientos con láser",
+      "descripcion": "Tecnología láser aplicada a tu piel, siempre con una valoración previa.",
+      "icono": "zap",
+      "detalles": [
+        "Valoración personalizada",
+        "Plan adaptado a ti",
+        "Te explicamos cada sesión"
+      ]
+    },
+    {
+      "nombre": "Tratamientos corporales",
+      "descripcion": "Remodela y cuida tu cuerpo con un plan pensado para las zonas que te preocupan.",
+      "icono": "heart-pulse",
+      "detalles": [
+        "Plan por zonas",
+        "Sin cirugía",
+        "Seguimiento de resultados"
+      ]
+    }
+  ],
+  "fotos": [],
+  "resenas": [
+    {
+      "autor": "Evelin Moreno Lahuerta",
+      "estrellas": 5,
+      "fecha": "hace 2 meses",
+      "texto": "Llevo acudiendo a Del Mar centros de estética desde hace más de quince años y, después de tantos años puedo recomendar el centro con total conocimiento y confianza. El trato de María del Mar y de todo el equipo siempre ha sido cercano, profesional y, sobre todo, muy humano. A lo largo de todos estos años he tenido siempre la tranquilidad de estar en buenas manos. Gracias a María del Mar y a todo el equipo por tantos años de atención y confianza."
+    },
+    {
+      "autor": "Maria Ramirez Gavira",
+      "estrellas": 5,
+      "fecha": "hace 5 meses",
+      "texto": "Maravillosa experiencia!! Estoy teniendo muy buenos resultados y tanto María del Mar como todas las empleadas son maravillosas y super agradables. Trato maravilloso y resultados geniales!!"
+    },
+    {
+      "autor": "Eva Perez",
+      "estrellas": 5,
+      "fecha": "hace 2 semanas",
+      "texto": "Era la primera vez que iba y me ha encantado. Profesional de diez y muy buen trato. Salí super contenta"
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Servicio excelente, buena atención, merece la pena repetir"
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Muy buen trato por parte de Ana, llevo años yendo y lo recomiendo 100%."
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Buen sitio y buen trato."
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">nuestras clientas</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "10:00 – 20:30"
+    },
+    {
+      "dia": "Martes",
+      "horas": "10:00 – 20:30"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "10:00 – 20:30"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "10:00 – 20:30"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "10:00 – 20:30"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Marina",
+    "saludo": "¡Hola! Soy Marina, de Del Mar Centros de Estética 🌊 Te ayudo a elegir tratamiento y a reservar tu cita en un momento.",
+    "pregunta_demo": "Hola, ¿tenéis cita para una higiene facial?",
+    "teaser": "¿Te busco hueco? 🌊",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "10:30",
+      "12:00",
+      "13:30",
+      "17:00",
+      "18:30",
+      "19:30"
+    ],
+    "como_llegar": "Estamos en la calle Alcalá del Júcar, esquina con la Avenida Santa Lucía (local 109), en Alcalá de Guadaíra.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el martes a las 18:30 para tu higiene facial. ¿Te lo reservo?",
+      "Pide tu cita aquí a cualquier hora, sin esperar al teléfono ✨",
+      "¡Hecho! Tu cita queda reservada 🌊"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿Es mi primera vez, por dónde empiezo?",
+        "claves": [
+          "primera vez",
+          "nunca he ido",
+          "empez",
+          "recomiend",
+          "no se que"
+        ],
+        "respuesta": "¡Bienvenida! Lo ideal es empezar con una valoración: miramos tu piel, te escuchamos y te proponemos lo que de verdad necesitas. ¿Te reservo cita?"
+      },
+      {
+        "pregunta": "¿Cuántas sesiones de láser necesito?",
+        "claves": [
+          "laser",
+          "láser",
+          "sesiones"
+        ],
+        "respuesta": "Depende de la zona y de tu piel. En la primera visita te hacemos una valoración y te damos un plan a tu medida."
+      },
+      {
+        "pregunta": "¿Me recomendáis productos para casa?",
+        "claves": [
+          "producto",
+          "crema",
+          "casa",
+          "rutina"
+        ],
+        "respuesta": "¡Claro! Después de tu tratamiento te aconsejamos los productos que necesita tu piel para mantener los resultados."
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva",
+  "cta_final_titulo": "Tu piel, *en buenas manos.*",
+  "cta_final_texto": "Llámanos y te buscamos hueco esta misma semana."
+}
