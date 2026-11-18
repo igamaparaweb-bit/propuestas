@@ -1,0 +1,290 @@
+{
+  "slug": "piel-de-seda-belleza-integral-alcala-de-guadaira",
+  "nombre": "Piel de Seda Belleza Integral",
+  "nombre_corto": "Piel de Seda",
+  "sector_nombre": "Centro de estética integral",
+  "icono_sector": "sparkles",
+  "palabra_servicio": "tratamiento",
+  "palabra_servicio_plural": "tratamientos",
+  "ciudad": "Alcalá de Guadaíra",
+  "barrio": "",
+  "direccion": "Av. de la Constitución, 9, Loc 3, 41500 Alcalá de Guadaíra",
+  "telefono": "658 26 72 70",
+  "whatsapp": "658 26 72 70",
+  "email": "info@pieldesedabellezaintegral.com",
+  "web_actual": "http://www.pieldesedabellezaintegral.com/",
+  "logo_url": "",
+  "colores": {
+    "primario": "#4F6B2A",
+    "secundario": "#E9C3CE",
+    "acento": "#C8A45C"
+  },
+  "estilo": {
+    "arquetipo": "estetica-luxury",
+    "layout": "dividido",
+    "tema": "claro",
+    "fondo": "#FAF7F0",
+    "texto": "#1F2616",
+    "superficie": "#FFFFFF",
+    "superficie_alt": "#EFEADF",
+    "hero": "centrado",
+    "forma": "suave",
+    "fuente_titulos": "Fraunces",
+    "fuente_texto": "DM Sans",
+    "destacado": "cursiva",
+    "fuente_acento": "Fraunces",
+    "velocidad": "normal",
+    "aurora": "ninguna"
+  },
+  "agencia": {},
+  "google": {
+    "rating": 4.7,
+    "num_resenas": 139,
+    "maps_url": "https://www.google.com/maps/place/Piel+de+Seda+Belleza+Integral/@37.3487132,-5.8442448,17z/data=!4m6!3m5!1s0xd1264e8e6f4366d:0x3b2164df122fad6c!8m2!3d37.3487132!4d-5.8442448",
+    "consulta_mapa": "Piel de Seda Belleza Integral, Av. de la Constitución 9, Alcalá de Guadaíra"
+  },
+  "hero": {
+    "etiqueta": "Belleza integral · Alcalá de Guadaíra",
+    "titular": "Una piel que se siente",
+    "titular_destacado": "como la seda.",
+    "subtitular": "Faciales, corporales y láser en Alcalá de Guadaíra, con la última aparatología y un equipo que te asesora con sinceridad.",
+    "cta_texto": "Pedir mi cita"
+  },
+  "etiqueta_manifiesto": "Quiénes somos",
+  "manifiesto": "Somos un centro de belleza integral hecho por un equipo de mujeres que trabaja *codo con codo.* Te escuchamos, te aconsejamos con sinceridad y combinamos tecnología y manos expertas para que notes el resultado *desde la primera sesión.*",
+  "marquesina": [
+    "Lifting sin cirugía",
+    "Láser",
+    "Microblading",
+    "Pestañas",
+    "Corporal",
+    "Alcalá de Guadaíra"
+  ],
+  "etiqueta_ventajas": "Por qué elegirnos",
+  "titulo_ventajas": "Te cuidamos <span class=\"text-gradient\">de verdad</span>",
+  "subtitulo_ventajas": "",
+  "ventajas": [
+    {
+      "icono": "messages-square",
+      "titulo": "Te asesoramos con sinceridad",
+      "texto": "Te recomendamos solo lo que tu piel necesita. Sin ventas forzadas."
+    },
+    {
+      "icono": "users-round",
+      "titulo": "Un equipo que se nota",
+      "texto": "Trabajamos en equipo y con buen ambiente, y eso se refleja en el resultado."
+    },
+    {
+      "icono": "cpu",
+      "titulo": "Última aparatología",
+      "texto": "Tecnología estética actual combinada con manos expertas."
+    },
+    {
+      "icono": "heart",
+      "titulo": "Todas bienvenidas",
+      "texto": "Centro dirigido por mujeres y amigable con la comunidad LGBTQ+."
+    }
+  ],
+  "etiqueta_servicios": "Tratamientos",
+  "titulo_servicios": "Tratamientos <span class=\"text-gradient\">que se notan</span>",
+  "subtitulo_servicios": "Pasa el ratón (o toca) para ver los detalles de cada uno.",
+  "servicios": [
+    {
+      "nombre": "Lifting facial sin cirugía",
+      "descripcion": "Atenúa manchas, mejora cicatrices y borra pequeñas arrugas, con resultados visibles desde la primera sesión.",
+      "icono": "sparkles",
+      "detalles": [
+        "No invasivo",
+        "Resultados desde la primera sesión",
+        "Para arrugas, manchas y cicatrices"
+      ],
+      "imagen": "img/02-facial.jpg"
+    },
+    {
+      "nombre": "Higiene facial oxigenante",
+      "descripcion": "Limpieza profunda con oxígeno puro para una piel fresca, luminosa y jugosa.",
+      "icono": "droplets",
+      "detalles": [
+        "Limpieza en profundidad",
+        "Piel luminosa",
+        "Cuidando cada detalle"
+      ],
+      "imagen": "img/03-serum.jpg"
+    },
+    {
+      "nombre": "Lifting de pestañas",
+      "descripcion": "Pestañas más largas y curvadas a la vista, sin extensiones.",
+      "icono": "eye",
+      "detalles": [
+        "Efecto natural",
+        "Sin extensiones",
+        "Mantenimiento sencillo"
+      ],
+      "imagen": "img/04-mirada.jpg"
+    },
+    {
+      "nombre": "Microblading de cejas",
+      "descripcion": "Maquillaje semipermanente para unas cejas más densas, con un acabado natural y realista.",
+      "icono": "pen-tool",
+      "detalles": [
+        "Cejas más densas",
+        "Sensación natural",
+        "Diseño a tu medida"
+      ]
+    },
+    {
+      "nombre": "Láser Q-Switch",
+      "descripcion": "Manchas solares, eliminación de tatuajes y Peeling Hollywood con tecnología láser.",
+      "icono": "zap",
+      "detalles": [
+        "Manchas solares",
+        "Eliminación de tatuajes",
+        "Peeling Hollywood"
+      ]
+    },
+    {
+      "nombre": "Grasa localizada y celulitis",
+      "descripcion": "Criolipólisis y mesoterapia corporal para moldear la figura y mejorar la piel de naranja.",
+      "icono": "heart-pulse",
+      "detalles": [
+        "Criolipólisis",
+        "Mesoterapia corporal",
+        "Plan por zonas"
+      ]
+    }
+  ],
+  "fotos": [
+    "img/01-seda-olivo.jpg",
+    "img/02-facial.jpg",
+    "img/03-serum.jpg",
+    "img/04-mirada.jpg"
+  ],
+  "resenas": [
+    {
+      "autor": "beatriz bascon montes",
+      "estrellas": 5,
+      "fecha": "hace un mes",
+      "texto": "Una experiencia maravillosa. La limpieza facial fue increíble, cuidando cada detalle y transmitiendo en todo momento profesionalidad y dedicación. Se nota muchísimo el cariño que ponen en su trabajo. Además, quiero destacar el compañerismo y el trabajo en equipo. Todo el equipo trabaja con muy buen ambiente, se ayudan entre ellos y eso se refleja en la atención y en el resultado final. Da gusto estar en un lugar donde se respira tanta cercanía, coordinación y profesionalidad. Sin duda, un equipo donde el buen trabajo y el buen ambiente van de la mano. ¡Una experiencia para repetir!"
+    },
+    {
+      "autor": "K PINK",
+      "estrellas": 5,
+      "fecha": "hace un mes",
+      "texto": "Excelentes profesionales y un trato de diez. Me hice un lifting de pestañas y no puedo estar más contento con el resultado, han superado mis expectativas. Las trabajadoras son súper amables, atentas y cuidadosas en cada detalle. Da gusto ir a sitios donde te tratan con tanto cariño. ¡100% recomendable!"
+    },
+    {
+      "autor": "EDUARDO RIVERO MANTECON",
+      "estrellas": 5,
+      "fecha": "hace 2 meses",
+      "texto": "Trato exquisito. Me gusta mucho como me tratan y lo bien que trabajan. Todas las chicas muy profesionales. Recomiendo el centro."
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Te asesoran de manera sincera, lo cual se agradece enormemente."
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Sois maravillosas y mil gracias por vuestros consejos!!"
+    },
+    {
+      "autor": "Cliente de Google",
+      "estrellas": 5,
+      "fecha": "Reseña destacada en Google",
+      "texto": "Primera visita, atención genial gran profesionalidad, volveré…"
+    }
+  ],
+  "titulo_opiniones": "Lo que dicen <span class=\"text-gradient\">quienes nos visitan</span>",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "horas": "9:30 – 14:00 · 16:30 – 20:30"
+    },
+    {
+      "dia": "Martes",
+      "horas": "9:30 – 14:00 · 16:30 – 20:30"
+    },
+    {
+      "dia": "Miércoles",
+      "horas": "9:30 – 14:00 · 16:30 – 20:30"
+    },
+    {
+      "dia": "Jueves",
+      "horas": "9:30 – 18:30"
+    },
+    {
+      "dia": "Viernes",
+      "horas": "9:30 – 14:00 · 16:30 – 20:30"
+    },
+    {
+      "dia": "Sábado",
+      "horas": "Cerrado"
+    },
+    {
+      "dia": "Domingo",
+      "horas": "Cerrado"
+    }
+  ],
+  "asistente": {
+    "nombre": "Alma",
+    "saludo": "¡Hola! Soy Alma, de Piel de Seda 🌸 Te ayudo a elegir tratamiento y a reservar tu cita en un momento.",
+    "pregunta_demo": "Hola, ¿tenéis cita para un lifting de pestañas?",
+    "teaser": "¿Te busco hueco? 🌸",
+    "dias_cerrados": [
+      0,
+      6
+    ],
+    "horas": [
+      "10:00",
+      "11:30",
+      "13:00",
+      "17:00",
+      "18:30",
+      "19:30"
+    ],
+    "como_llegar": "Estamos en la Avenida de la Constitución, 9 (local 3), en Alcalá de Guadaíra.",
+    "burbuja_hero": [
+      "¡Hola! 👋 Tengo hueco el jueves a las 11:30 para tu lifting de pestañas. ¿Te lo reservo?",
+      "Pide tu cita aquí a cualquier hora ✨",
+      "¡Hecho! Tu cita queda reservada 🌸"
+    ],
+    "faq": [
+      {
+        "pregunta": "¿El lifting facial es sin cirugía?",
+        "claves": [
+          "lifting facial",
+          "sin cirugia",
+          "arrugas",
+          "flacidez"
+        ],
+        "respuesta": "Sí: es un tratamiento no invasivo que atenúa manchas, mejora cicatrices y pequeñas arrugas, con resultados visibles desde la primera sesión. ¿Te reservo una valoración?"
+      },
+      {
+        "pregunta": "¿Quitáis manchas y tatuajes?",
+        "claves": [
+          "mancha",
+          "tatuaje",
+          "q-switch",
+          "hollywood"
+        ],
+        "respuesta": "Sí, con láser Q-Switch tratamos manchas solares, eliminación de tatuajes y hacemos Peeling Hollywood. En la primera visita valoramos tu caso."
+      },
+      {
+        "pregunta": "¿Qué me recomiendas?",
+        "claves": [
+          "recomiend",
+          "no se que",
+          "primera vez",
+          "aconsej"
+        ],
+        "respuesta": "Cuéntanos qué te gustaría mejorar y te asesoramos con sinceridad, solo con lo que tu piel necesita. ¿Te reservo una primera cita?"
+      }
+    ]
+  },
+  "etiqueta_cta": "Reserva tu cita",
+  "cta_final_titulo": "Tu piel, *como la seda.*",
+  "cta_final_texto": "Escríbenos o llámanos y te buscamos hueco esta semana."
+}
